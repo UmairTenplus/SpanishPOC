@@ -11,9 +11,11 @@ OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 PINECONE_API_KEY = os.getenv("PINECONE_API_KEY")
 openai.api_key = OPENAI_API_KEY
 
-# === Pinecone Setup ===
+# === Pinecone Setup (v5.0+) ===
 pc = Pinecone(api_key=PINECONE_API_KEY)
-index = pc.Index("spanishpoc")
+
+# Example: If using serverless, you must define region & project
+index = pc.Index(name="spanishpoc")
 
 # === Embedding Function ===
 def embed_text(text: str) -> List[float]:
