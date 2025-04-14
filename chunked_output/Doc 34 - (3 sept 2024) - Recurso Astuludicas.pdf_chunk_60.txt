@@ -1,0 +1,11 @@
+MEDICIONES DE OTROS PARÁMETROS ACÚSTICOS f) Medición de parámetros acústicos en recintos. Parte 1: Salas de espectáculos. UNE EN ISO 3382-1.
+Nota 1: Puede acceder al Registro General de Laboratorios de ensayos para el control de calidad de la edificación-Lecce en el siguiente enlace:
+https://www.codigotecnico.org/pdf/Registro/Laboratorios/2023_08_02_Laboratorios.pdf El sistema de gestión de la calidad implantado en el Laboratorio de Acústica Merino
+Ingenieros S.L. tiene definidos los procedimientos y métodos que utiliza en la realización de los ensayos en los que presta su asistencia técnica, así como la capacidad, personal, medios y
+equipos adecuados para ello. El Laboratorio utiliza métodos de ensayo normalizados y cuenta con una relación de los ensayos con los que presta la asistencia técnica requerida.
+Los resultados de cada ensayo, son informados en forma exacta, clara, no ambigua y objetiva, de acuerdo con las instrucciones específicas de los métodos de ensayo.
+El laboratorio tiene asegurada su independencia, imparcialidad e integridad. El laboratorio cuenta con procedimientos para estimar la incertidumbre de la medición de cada tipo de ensayo.
+El laboratorio cuenta con procedimientos de control de la calidad para realizar el seguimiento de la validez de los ensayos llevados a cabo. Dicho seguimiento está planificado
+y revisado e incluye entre otros elementos, la participación en comparaciones interlaboratorios, tal como indican los apartados 7.2.2.1 y 7.7.2 de la norma UNE-EN
+ISO/IEC 17025. Para garantizar el cumplimiento de estos apartados, el Laboratorio de Acústica Merino Ingenieros S.L. ha participado en las siguientes campañas de Ensayos de
+Intercomparación de laboratorios de acústica, superando con éxito (z-score < 2) todos los alcances en los que se ha intercomparado: [42 image 1] Ayuntamiento de Llanes RES18S01CI RES/2024/85

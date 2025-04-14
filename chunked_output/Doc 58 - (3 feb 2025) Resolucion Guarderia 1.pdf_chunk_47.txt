@@ -1,0 +1,12 @@
+Se ha considerado una única fase de ruido para las fuentes sonoras evaluadas (niños gritando). Nótese que el protocolo del real decreto permite considerar una única fase cuando la
+Variación del índice nivel continuo equivalente es hasta de 6 dBA. Se estima necesario aclarar que el principal objetivo del real decreto 1367/2007 es
+determinar la molestia producida por una fuente de ruido, pero en ningún caso pretende caracterizar la fuente de ruido en cuestión, sino garantizar la protección de
+los posibles receptores de ese ruido, determinando el cumplimiento o no con los valores límite durante los 5 segundos más desfavorables de la fase más ruidosa de
+la fuente auditada, por tanto si al evaluar la fase de mayor ruido que ésta genera no cumple, no es necesario seguir evaluando el resto de posibles fases, tal como aclara
+el apartado 2.2 del protocolo de la Guía de medida y evaluación del ruido de actividades o instalaciones según Anexo IV del Real Decreto 1367/2007, Versión 1
+Diciembre 2.011 realizada por AECOR (Asociación Española para la Calidad Acústica). Según se ha indicado en apartados anteriores del presente Informe, tras el muestreo
+realizado, se ha utilizado una sola posición discreta de micro en la zona evaluada del medio ambiente exterior del límite de la parcela en la que se ubica la vivienda unifamiliar afectada.
+Los criterios de selección del punto de medida han sido los siguientes: > La altura del micro sobre el suelo ha sido de 1,5 metros de altura.
+> El punto seleccionado tras el muestreo realizado para el registro de datos, se ubica en una posición de campo libre. Por lo tanto, únicamente se ha tenido
+en cuenta el sonido incidente, al quedar eliminadas las Posibles reflexiones, si las hubiese, procedentes de la fachada que se encuentra por detrás del
+micrófono, debido a que el mismo se ha ubicado siempre a una distancia superior a 2 m de la misma, tal como indica el apartado 9.2.1.2 de la norma UNE-ISO 1996-2. 2415166

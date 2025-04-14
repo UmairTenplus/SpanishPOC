@@ -1,0 +1,12 @@
+del límite de una de las parcelas en las que se ubican las viviendas unifamiliares afectadas. Con el fin de mejorar la incertidumbre de la medida y de que las mediciones realizadas
+fueran estadísticamente representativas, se han realizado medidas en continuo -tal y como se ha indicado anteriormente- en el citado punto de evaluación, aumentando el número mínimo de
+medidas que recomienda el Real Decreto 1367/2007, incrementando por tanto el tiempo de medición -tiempo de registro- (no el de integración que se mantiene en 5 segundos por cada
+registro evaluado en el postprocesado de datos) para cubrir todas las posibles variaciones significativas de la emisión de ruido.
+Los criterios de selección del punto de medida han sido los siguientes: La altura del micro sobre el suelo ha sido de 1,5 metros de altura. COPIA CONTROLADA: INF_873_24_NPS_CC799
+PARA USO EXCLUSIVO DE: D. RAÚL GUTIÉRREZ SALGADO 22/04/2024 [168 image 1] laboratorio de acústica merino ingenieros [168 image 2] Página 24 de 40 INF_873_24_NPS
+El punto seleccionado tras el muestreo realizado para el registro de datos, se ubica en una posición de campo libre. Por lo tanto, únicamente se ha tenido en
+cuenta el sonido incidente, al quedar eliminadas las posibles reflexiones, si las hubiese, procedentes de la fachada que se encuentra por detrás del micrófono,
+debido a que el mismo se ha ubicado siempre a una distancia superior a 2 m de la misma, tal como indica el apartado 9.2.1.2 de la norma UNE-ISO 1996-2.
+Dada la circunstancia explicada en el apartado anterior, no ha sido necesario realizar una corrección por reflexiones, según las prescripciones indicadas en el
+apartado 9.2.1.2 de la norma UNE-ISO 1996-2. Dada la fecha y el horario en el que se ha realizado el ensayo y no siendo además la
+Carretera de Celorio a Barro LLN-9, una vía de comunicación importante (según define la Resolución de 25 de abril de 2014), apenas ha habido registros que hayan estado influenciados por

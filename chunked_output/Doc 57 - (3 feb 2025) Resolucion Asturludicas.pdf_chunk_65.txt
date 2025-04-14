@@ -1,0 +1,11 @@
+= Manual de acústica ambiental y arquitectónica. Rodrigo Oviedo López y Rocío Perera Martín. 12 Edición, 2017.
+= Contaminación acústica. Gestión del ruido por las Corporaciones Locales. Aspectos jurídicos, técnicos y sanitarios” - Jaime Galbarro Muñoz, Joaquín J. Herrera Del Rey, Antonio Peidro Cuadros,
+José L. Rodríguez Laínz. 1% Edición, 2018. = Innovación para el control del ruido ambiental. Ediciones de la Universidad de Castilla La Mancha. 1% Edición, 2013.
+Nota aclaratoria: La NT-86 de ENAC, establece que desde julio de 2018, los métodos de ensayo y calibración se referencien con el código que los identifica, sin incluir su estado de revisión (p.e.
+norma UNE-EN ISO sin año), excepto en casos particulares en los que existan circunstancias demostradas que obliguen al laboratorio a usar revisiones anteriores (fundamentalmente por
+exigencias reglamentarias o de un dueño de esquema), en cuyo caso sí se incluirá adicionalmente una referencia a dicha revisión en el alcance de acreditación. Dicho criterio es el utilizado en el
+presente Informe para la referencia de las normas UNE-EN ISO. 3.2.2.- EQUIPOS DE MEDIDA El laboratorio está provisto con todos los equipos para el muestreo, la medición y el ensayo,
+requeridos para la correcta ejecución del ensayo realizado y cumplen los requisitos establecidos en el apartado 6.4 de la norma UNE-EN ISO/IEC 17025.
+El ensayo se ha realizado con los siguientes equipos de medida y accesorios de ensayo de nuestra propiedad: Referencia Equipo / Accesorio NO Serie Descripción
+EM-001 B8K 2260] Observer 2354872 Analizador de frecuencia en tiempo real clase 1 EM-002 B8K 4189 2352881 Micrófono Ya” EM-003 B8K 4231 2343151 Calibrador acústico clase 1
+EM-004 TESTO 435-4 01406153/708 Instrumento de medición multifunción 145956 Ayuntamiento de Llanes - Calle Nemesio Sobrino s/n - 985 40 01 02 - Llanes [44 image 1] Ayuntamiento de Llanes Negociado.

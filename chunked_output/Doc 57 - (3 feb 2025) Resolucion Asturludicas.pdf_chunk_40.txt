@@ -1,0 +1,11 @@
+documento marco de acústica medioambiental que constituye el real decreto 1367/2007, no establece, como es lógico debido a las diferentes casuísticas que pueden existir de ruidos a
+evaluar, tiempos máximos entre medidas, sino única y exclusivamente tiempos mínimos de 3 minutos entre cada una de ellas. Por otra parte, para declarar la no conformidad de una actividad,
+respecto a los valores máximos del índice acústico LkAeg (nivel continuo equivalente ponderado A corregido por la presencia de componentes tonales, impulsivas y baja frecuencia), el real decreto
+1367/2007 prescribe que son suficientes 3 medidas de 5 segundos separadas temporalmente 3 minutos y lo mismo sucede con el ruido residual. Esto significa que la duración mínima del ensayo
+podría ser de 6 minutos y 15 segundos (con únicamente 15 segundos de registro) para la fuente sonora y lo mismo para el fondo, computando un total de 12 minutos y 30 segundos (con 30
+segundos de registro total y 6 minutos de espera entre registros). Sin embargo, la duración del ensayo realizado ha sido de 4 horas y 50 minutos.
+Según el Anexo 1 del Real Decreto 1367/2007, el periodo día está comprendido entre las 7:00 y las 19:00 horas, el periodo tarde está comprendido entre las 19:00 y las 23:00 horas y el periodo
+noche está comprendido entre las 23:00 y las 7:00 horas. Se ha considerado una única fase de ruido para las fuentes sonoras evaluadas.
+Se estima necesario aclarar que el principal objetivo del real decreto 1367/2007 es determinar la molestia producida por una fuente de ruido, pero en ningún caso pretende caracterizar la fuente de
+Ayuntamiento de Llanes - Calle Nemesio Sobrino s/n - 985 40 01 02 - Llanes [29 image 1] | Ayuntamiento de Llanes Negociado. E REGIMEN SANCIONADOR 4N29 6D59 266H 1M3S 0091 1000000000000 0
+soso [eses |] ruido en cuestión, sino garantizar la protección de los posibles receptores de ese ruido, determinando el cumplimiento o no con los valores límite durante los 5 segundos más

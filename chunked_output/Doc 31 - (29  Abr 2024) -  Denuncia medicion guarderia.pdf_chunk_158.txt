@@ -1,0 +1,11 @@
+encontraban dentro de los márgenes autorizados para el desarrollo del mismo, cumpliendo con las especificaciones del fabricante de los equipos de medida (Temperatura de funcionamiento de
+Analizador 2260 y Calibrador 4231: de -10 ºC a +50 ºC; Calor Húmedo para Analizador 2260 y Calibrador 4231: Hr del 90% sin condensación a 40 ºC) y garantizando el buen funcionamiento de
+la cadena de medida y la aptitud de las condiciones ambientales para todos los registros realizados. La velocidad del viento ha sido inferior a la máxima de 5 m/s que permite el apartado 3.5
+del Anexo IV A del R.D. 1367/2007. Las mediciones en el medio ambiente exterior se realizaron sin lluvia y con la pantalla
+antiviento de 65 mm colocada en el micro, tal como indica el apartado 3.5.d) del Anexo IV.A del Real Decreto 1367/2007, con un analizador Brüel & Kjaer 2260 clase 1, posicionado sobre un
+trípode a la altura de 1,5 m indicada anteriormente. Nota 5: Los registros de las condiciones meteorológicas realizados durante el ensayo, se
+encuentran a disposición del cliente en el Laboratorio de Acústica Merino Ingenieros S.L. y podrán ser aportados para garantizar la trazabilidad del Informe de ensayo.
+Se ha verificado el estado de la calibración del analizador antes y después de efectuar las mediciones mediante un calibrador acústico Brüel & Kjaer 4231, clase 1, garantizando un COPIA CONTROLADA:
+INF_873_24_NPS_CC799 PARA USO EXCLUSIVO DE: D. RAÚL GUTIÉRREZ SALGADO 22/04/2024 [175 image 1] laboratorio de acústica merino ingenieros Página 31 de 40 INF_873_24_NPS
+margen de desviación no superior a 0,3 dB respecto el valor de referencia inicial. Asimismo, el nivel de presión sonora visualizado en las comprobaciones ha estado comprendido dentro del
+margen de tolerancia definido respecto del valor de referencia del calibrador acústico. Nota 6: Los registros de las verificaciones de la calibración realizadas antes y después del

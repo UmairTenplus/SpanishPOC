@@ -1,0 +1,12 @@
+Page 1 of 2 pages Date/s of Calibration Signatario/s autorizado/s Type IDENTIFICACIÓN Número de serie (Serial number): 2343151 Código (Code): -----. LABORATORIO DE ACUSTICA MERINO INGENIEROS, S.L.
+AGUADO 18, 5º IZQUIERDA 33202. GIJÓN. ASTURIAS Applicant ITMA-1881 Item MARCA Bruel&Kjaer Trademark MODELO 4231 OBJETO CALIBRADOR ACÚSTICO (Clase 1) CERTIFICADO DE CALIBRACIÓN COPIA CONTROLADA:
+INF_827_23_NPS_CC780 PARA USO EXCLUSIVO DE: Dº. RAÚL GUTIÉRREZ SALGADO 17/08/2023 [109 image 1] DBNIAL CENTRO TECNOLÓGICO [109 image 2] Sia, CIS CALIBRACIÓN 180 17025 N*86 / LC10.058 0,04 dB 0,40 dB
+POSITIVO 0,07 dB 0,40 dB POSITIVO 0,00 % 1,0 % POSITIVO ----- 3,0 % POSITIVO
+Distorsión total TD incluye armónicos, subarmónicos y ruido, en el rango de 22 Hz a 20 kHz. Tolerancia: La de la norma aplicada
+en la calibración, para un calibrador acústico de CLASE 1. Regla de decisión: resultado POSITIVO indica que el calibrador acústico cumple la tolerancia de la norma aplicada.
+(Total distorsion TD includes harmonics, subharmonics and noise, in the range of 22 Hz to 20 kHz. Tolerance: The specified in
+the standard applied in calibration, for an acoustic calibrator CLASS 1. Decision rule: result POSITIVE means that the acoustic calibrator has fulfilled the tolerance of the standard applied.)
+Page 2 of 2 pages RESULTADOS (Results) : Resultado (Result) Este certificado no podrá ser reproducido parcialmente sin la autorización por escrito de Fundación IDONIAL.
+This certificate should not be partially reproduced without the prior written permission of Fundación IDONIAL. Valor nominal (Expected) Valor medido (Measured) Error (Deviation) Tolerancia
+(Tolerance) Incertidumbre (Uncertainty) 1000,00 Hz 999,98 Hz 0,02 % Distorsión total (TD) ---- 1,10 % 0,30 % CERTIFICADO DE CALIBRACIÓN Certificate of Calibration 114,00 dB 114,07 dB 0,15 dB
+Frecuencia (Frequency) Página 2 de 2 páginas Nivel de Presion sonora (Sound Pressure Level) 94,00 dB 94,04 dB 0,15 dB Número Number CALIBRACIÓN (Calibration) :

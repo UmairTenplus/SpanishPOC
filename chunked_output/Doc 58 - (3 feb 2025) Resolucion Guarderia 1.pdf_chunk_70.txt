@@ -1,0 +1,13 @@
+Ayuntamiento de Llanes > Negociado. a REGIMEN SANCIONADOR 6K 3B6X 1K08 6K50 402G 041Y 000008:00000000 00000000 IN Larson [eses] 7
+La digitalización del audio se realiza con una frecuencia de muestreo de 12/24/48 KHz con 16 o 24 bits de resolución. La tecnología empleada permite realizar el
+procesado en tiempo real, añadir la información de geoposicionamiento y habilitar la comunicación bidireccional con la plataforma online.
+Durante el período de monitorización, es posible consultar los datos de ruido en tiempo real desde cualquier ubicación y comprobar si los niveles de ruido se acercan
+o sobrepasan los límites impuestos en la normativa (se pueden consultar en línea datos de alta resolución, revisar la representación gráfica del ruido, llevar un
+seguimiento y realizar operaciones en remoto sobre la estación de monitorizado, tales como solicitud de grabación de audio, comprobación de la calibración, etc. Je
+Los resultados obtenidos del estudio de impacto acústico mediante el monitorizado permanente muestran las tendencias del ruido, permiten establecer el grado de
+superación en relación a la normativa vigente, las fuentes de ruido predominantes y conocer las características acústicas del entorno.
+La plataforma está diseñada para recabar información exhaustiva de eventos sonoros de la forma más eficiente posible. El fin último de un sistema de
+monitorizado de ruido no es la acumulación de una serie de números, sino contestar a preguntas concretas e ¡ilustrar realidades sonoras.
+La plataforma permite capturar, procesar y almacenar cantidades ingentes de datos, que al final son los que darán las respuestas que se buscan.
+Nota: En el Anexo A.3 del presente Informe se adjuntan las características técnicas de la estación de monitorizado utilizada.
+A su vez en el citado Informe Monitorizado de Ruido Ambiental realizado del 30 a 31 de julio de 2024 presentado por D. Raúl Gutiérrez Salgado con fecha de

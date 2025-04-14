@@ -1,0 +1,12 @@
+ser inmediatamente antes y/o después. Por tanto, para evaluar el ruido de fondo se han tomado registros antes del inicio de la actividad,
+Dicho ruido de fondo es representativo de los niveles de presión sonora de inmisión que llegan al medio ambiente exterior del límite de la parcela en la que se ubica la vivienda con
+afección sonora, sin estar la fuente sonora evaluada emitiendo ruido (gritos de niños), ya ue se ha asegurado que las condiciones de entorno en las que se ha medido el ruido de
+ondo han sido las mismas que las presentes en las medidas con la fuente sonora a auditar emitiendo ruido. Una vez determinado el ruido de fondo se ha comprobado si era necesario realizar o no, las
+correcciones oportunas debidas al citado ruido residual, Debido a que el apartado A.3.4.2.b) del Anejo IV del Real Decreto 1367/2007 no indica el
+protocolo de corrección por ruido de fondo, se ha utilizado como criterio, lo que se especifica en el apartado 10.4 de la norma UNE-ISO 1996-2.
+Nota: tal como indica la recientemente aprobada norma UNE 74201, cuando no queden definidos los protocolos de cálculo de ruido residual en una norma de ensayo, se deben usar
+los criterios dados en la citada norma. Al índice acústico evaluado corregido por el ruido de fondo (caso de ser necesario), se le han
+aplicado las correcciones oportunas debidas a la presencia de componentes tonales emergentes, de baja frecuencia o ruido de carácter impulsivo.
+Con el fin de no penalizar indebidamente a la fuente evaluada, para determinar las correcciones a realizar se ha seguido además del procedimiento establecido en el Anejo IV.
+del Real Decreto 1367/2007, el protocolo de la Guía de medida y evaluación del ruido de actividades o instalaciones según Ánexo IV del Real Decreto 1367/2007, Versión 1 Diciembre
+2.011 realizada por AECOR y particularmente las Notas 4 a 6 del citado protocolo, tal como prescribe la Instrucción Técnica para la evaluación y determinación del impacto acústico de

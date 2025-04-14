@@ -1,0 +1,10 @@
+Detección cuadrática. Pulsos rectangulares negativos Promedio temporal. Leq, SEL Indicación de sobrecarga. NPS Indicación de sobrecarga. SEL Nivel medio de presion acustica ponderado AI
+(Absolute acoustical sensitivity level) (Frequency response in acoustic coupler, FW A) (Frequency response in acoustic coupler, FW C) (Frequency response in acoustic coupler, FW Lin)
+(Determining electrical level for LRef at 1kHz) (Frequency response with electrical signal, FW A) (Frequency response with electrical signal, FW C) (Frequency response with electrical signal, FW Lin)
+(Level range control. Frequency 20 Hz) (Level range control. Frequency 12500 Hz) (Linearity range, IEC60651, 1000 Hz, SPL 1 dB steps) (Linearity range, IEC60651, 8000 Hz, SPL 10 dB steps)
+(Time Weighting. Difference in ref. level indication) (Time Weighting. Response to single burst, 200 ms, F) (Time Weighting. Response to single burst, 500 ms, S)
+(Time Weighting. Response to single burst, 2 ms, I) (TW Response, continuous sequence of bursts, 2Hz, I) (Time Weighting. Peak) (RMS detector. Sine Burst) (RMS detector. Positive rectangular pulses)
+(RMS detector. Negative rectangular pulses) (Time Averaging. Leq, SEL) (Overload Indication. SPL) (Overload Indication. SEL) (Average AI-weighted SPL) COPIA CONTROLADA: INF_873_24_NPS_CC799
+PARA USO EXCLUSIVO DE: D. RAÚL GUTIÉRREZ SALGADO 22/04/2024 [190 image 1] DBNIAL CENTRO TECNOLÓGICO COPIA CONTROLADA: INF_873_24_NPS_CC799 PARA USO EXCLUSIVO DE: D. RAÚL GUTIÉRREZ SALGADO 22/04/2024
+[191 image 1] CERTIFICADO DE VERIFICACIÓN PERIÓDICA O) Certificado Número: 2401484-3 > A Página 1 de 1 páginas ID NI [_ TITULAR/SOLICITANTE: Certificado emitido por: LABORATORIO DE ACUSTICA MERINO
+FUNDACIÓN IDONIAL INGENIEROS, S.L. Parque Tecnológico de Asturias 33428 Llanera. Asturias. España AGUADO 18, 5* IZQUIERDA Tfno: (+34) 985265307 33202. GIJÓN. ASTURIAS verificacionQidonial.com M6/11

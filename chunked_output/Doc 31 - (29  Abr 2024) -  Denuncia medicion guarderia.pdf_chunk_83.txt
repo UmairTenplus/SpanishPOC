@@ -1,0 +1,11 @@
+[97 image 1] laboratorio de acústica merino ingenieros Página 28 de 37 INF_827_23_NPS fuentes sonoras auditadas que proporcionan los valores máximos, de los índices acústicos LAeq y
+Lkeq,T (nivel continuo equivalente corregido por la presencia de componentes tonales emergentes, de baja frecuencia y ruido de carácter impulsivo).
+Asimismo, se incluyen también en el citado Anexo, las gráficas espectrales del índice LLeq (nivel continuo equivalente con ponderación lineal, en dB), correspondientes al tiempo de
+integración de medida (5 segundos). Se adjuntan finalmente en el citado Anexo, las gráficas espectrales y temporales del ruido de fondo.
+Por último, se estima conveniente aclarar, que el valor que figura a pié de cada gráfica temporal del Anexo 3, se corresponde -como bien indica la gráfica- con el valor de LAeq del segundo
+donde se encuentre posicionado el cursor y no con el valor del LAeq de los 5 segundos más desfavorables con los que se han realizado los cálculos.
+Se acompañan a continuación dos tablas para evaluar los resultados según el Real Decreto 1367/2007, con todos los valores de los parámetros de medida y correcciones por baja
+frecuencia, tonos puros e impulsividad, donde se indican los valores globales del índice acústico LAeq de los cinco segundos de medida más desfavorables de los diversos registros realizados y de
+otros dos índices acústicos, el nivel continuo equivalente impulsivo ponderado A y el nivel continuo equivalente con ponderación C, para determinar finalmente el parámetro Lkeq,T.
+Se ha utilizado como parámetro acústico de medida para comparar con los límites máximos establecidos en el R.D. 1367/2007, el nivel continuo equivalente corregido, LKeq,T (con T=5s),
+ya que así lo especifican los Anexos I y IV del R.D. 1367/2007. COPIA CONTROLADA: INF_827_23_NPS_CC780 PARA USO EXCLUSIVO DE: Dº. RAÚL GUTIÉRREZ SALGADO 17/08/2023 [98 image 1]

@@ -1,0 +1,9 @@
+EM-006       STARRET                                                  Flexómetro EM-009  SVANTEKSV-307 81740                   Estación de monitorizado  permanente AE-016
+MANFROTTO  608BU - Trípode robusto para estación de monitorizado
+Los equipos de medida y de ensayo utilizados por el laboratorio han sido verificados y, en su caso calibrados,  antes de su puesta en servicio y posteriormente cuando lo señale el programa de mantenimiento,  verificación y calibración  del laboratorio  (las verificaciones   de  calibrador,   sonómetros  y  micrófonos  se  realizan   anualmente cumpliendo lo establecido en la ORDEN ICT/155/2020,  de 7 de febrero, por la que se  regula el  control  metrológico  del  Estado  de  determinados  instrumentos   de medida. Adicionalmente se realizan  de forma  voluntaria calibraciones ENAC de los equipos,  anualmente para  el caso del calibrador,  tal como recomienda el apartado
+5.2 de la norma UNE-ISO 1996-2 y cada dos años para el caso del resto del sistema 56rr:,66 Ayuntamiento de Llanes  - Calle  Nemesio  Sobnno sin - 985 40 01 02 - Llanes Ayuntamiento de Llanes •••
+Negociado REGIMEN SANCIONADOR E.,i 3B6X 1 K08 6KSO 402G 041Y lll llll ll llll lllllllllllllllllll 111111111111111111111111111 H 1111111 IC'::'RES 2024/254   1 tRESJ9SOOJJ   I
+de  instrumentación  de  medición de  sonido  audible,  según  especifica  el  apartado indicado de la norma UNE citada anteriormente).
+Nota  4:  En  el  Anexo  1   del presente   Informe   se  adjuntan  los   Certificados   de verificación  de nuestros equipos,  así como  los Certificados de calibración  ENAC  de los mismos.
+7.3.1- CARACTERfSTICAS DEL SISTEMA DE MONITORIZACIÓN
+Los   sistemas   de   monitorizado   permanente  de   ruido   aseguran   la   adquisición automática de datos día,  tarde y noche,  recogiendo información del ruido.  Todos los resultados de las mediciones se recogen y se almacenan en terminales de control y

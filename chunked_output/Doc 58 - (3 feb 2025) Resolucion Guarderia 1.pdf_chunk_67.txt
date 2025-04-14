@@ -1,0 +1,12 @@
+De esta forma, conjugando los registros de ruido (gráficas temporales y espectrales), los archivos de audio y las observaciones in situ de los técnicos del laboratorio, las
+fuentes de ruido quedan perfectamente identificadas y documentadas. Según el Anexo | del Real Decreto 1367/2007, el periodo día está comprendido entre
+las 7:00 y las 19:00 horas, el periodo tarde está comprendido entre las 19:00 y las 23:00 horas y el periodo noche está comprendido entre las 23:00 y las 7:00 horas
+Ayuntamiento de Llanes - Calle Nemesio Sobrino s/n - 985 40 01 02 - Llanes [56 image 1] Ayuntamiento de Llanes Negociado. REGIMEN SANCIONADOR 3B6X 1K08 6K50 402G 041Y 1080000000001 000000000001
+7.3.- EQUIPOS DE MEDIDA [=RES/2024/254 El laboratorio está provisto con todos los equipos para el muestreo, la medición y el
+ensayo, requeridos para la correcta ejecución de los ensayos realizados y cumplen los requisitos establecidos en el apartado 6.4 de la norma UNE-EN ISO/IEC 17025 y
+en el artículo 30 del Real Decreto 1367/2007. Los ensayos se han realizado con los siguientes equipos de medida y accesorios de ensayo de nuestra propiedad:
+Referencia Equipo / Accesorio  N” Serie Descripción EM-001 B8K-2260J Observer 2354872 Analizador de frecuencia en tiempo real clase 1 EM-002  B8K 4189 2352881 Micrófono Y”
+EM-003  B8K 4231 2343151 Calibrador acústico clase 1 EM-004 TESTO 435-4 01406153/708 Instrumento de medición multifunción
+EM-005 TESTO 0635 1535 10153152/708 Sonda multifunción térmica de velocidad con Medición integrada de temperatura y humedad EM-006 STARRET - Flexómetro
+EM-009 SVANTEKSV-307 81740 Estación de monitorizado permanente AE-016 MANFROTTO 608BU - Trípode robusto para estación de monitorizado
+Los equipos de medida y de ensayo utilizados por el laboratorio han sido verificados y, en su caso calibrados, antes de su puesta en servicio y posteriormente cuando lo

@@ -1,0 +1,12 @@
+Doc. Reconocido DRC 06/09 de la Generalitat Valenciana PS04 d Estanqueidad de cubiertas Doc. Reconocido DRC 06/09 de la Generalitat Valenciana
+C.2.- PRUEBAS DE SERVICIO DE CALIDAD DEL AIRE INTERIOR: DE HS 3 Si/No Código nº Ensayo Procedimiento PS05 a Comportamiento térmico de los edificios y de los materiales. Determinación
+del caudal de aire específico en edificios. Método de dilución de gas trazador EN ISO 12569:2012 (Ratificada por AENOR en agosto de 2013)
+C.3.- PRUEBAS DE SERVICIO DE SUMINISTRO Y EVACUACIÓN DE AGUA: DB HS 4 y 5 Si/No Código nº Ensayo Procedimiento DB HS 4 apartado 5.2 (CTE) (Se precisa procedimiento interno de desarrollo)
+Doc. Reconocido DRC 07/09 de la Generalitat Valenciana DB HS 5 apartado 5.6 (CTE) (Se precisa procedimiento interno de desarrollo) PS07
+Redes de evacuación de aguas residuales y pluviales en los edificios RELACIÓN DE ENSAYOS Y PRUEBAS DE SERVICIO QUE REALIZA EL LABORATORIO DE ENSAYOS PARA EL CONTROL DE
+CALIDAD DE LA EDIFICACIÓN  PARA LA PRESTACIÓN DE SU ASISTENCIA TÉCNICA Situado en: C/ AGUADO Nº 18, 5º IZQDA 33202 GIJON ASTURIAS
+declara que realiza los ensayos y pruebas de servicio siguientes, marcados con X en la primera columna (Si/No): PS06 a Redes interiores de suministro de agua en los edificios desarrollo)
+Doc. Reconocido DRC 08/09 de la Generalitat Valenciana C.4.- PRUEBAS DE SERVICIO DE AISLAMIENTO ACÚSTICO C.4.1.- MEDICIONES DE PARÁMETROS ACÚSTICOS SEGÚN DB HR Si/No Código nº Ensayo Procedimiento X
+PS08 a Medición in situ del aislamiento al ruido aéreo entre locales UNE EN ISO 16283-1:2015 (CTE) X PS09 b Mediciones in situ del aislamiento acústico a ruido aéreo de elementos de
+fachadas y de fachadas UNE-EN ISO 16283-3:2016 (CTE) X PS10 c Medición in situ del aislamiento acústico de suelos al ruido de impactos UNE-EN ISO 16283-2:2019 (CTE) X PS11 d
+Medición de parámetros acústicos en recintos. Parte 2: Tiempo de reverberación en recintos ordinarios UNE EN ISO 3382-2:2008 (CTE) X PS12 e

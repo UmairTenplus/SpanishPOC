@@ -1,0 +1,14 @@
+Apuntes del Curso: Acreditación en Acústica: Garantía de calidad. Organizado por Álava Ingenieros e impartido en Madrid, los días 10 y 11 de noviembre de 2.009, con un total de 13 horas lectivas.
+Apuntes del Curso: Inspección de ruido ambiental Real Decreto 1367:2007. Organizado por la Universidad
+Politécnica de Madrid, el Grupo de Investigación en Instrumentación y Acústica Aplicada (I2A2) y el Centro de
+Acústica Aplicada y Evaluación No Destructiva “CAEND” dirigido por el Catedrático D. Manuel Recuero López e impartido en Madrid, los días 9 y 10 de junio de 2.010, con un total de 16 horas lectivas.
+Apuntes de la Jornada "Ruido Ambiental" organizada por los Ministerio de Transportes, Movilidad y Agenda Urbana y
+para la Transición Ecológica y el Reto Demográfico (MITERD) y el CEDEX (Centro de Estudios y Experimentación de Obras Públicas) e impartida en Madrid el 8 de Julio de 2.022.
+UNE-ISO 1996-1 Acústica. Descripción, medición y evaluación del ruido ambiental. Parte 1: Magnitudes básicas y métodos de evaluación.
+UNE-ISO 1996-2 Acústica. Descripción, medición y evaluación del ruido ambiental. Parte 2: Determinación de los niveles de presión sonora. UNE-ISO 226 Acústica. Líneas isofónicas normales.
+UNE-EN ISO 16032 Acústica - Medición del nivel de presión sonora de los equipos técnicos en los edificios - Método de peritaje.
+UNE-EN ISO/IEC 17025: Requisitos generales para la competencia de los laboratorios de ensayo y calibración.
+EUROLAB “Cook Book” – Doc No. 8. Determination of conformance with specifications using measurement uncertainties – possible strategies.
+EUROLAB Technical Report No. 01/ 2017 January 2017. Decision rules applied to conformity assessment.
+ISO 14253-1. Geometrical product specifications (GPS) -- Inspection by measurement of workpieces and measuring
+equipment -- Part 1: Decision rules for verifying conformity or nonconformity with specifications.

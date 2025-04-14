@@ -1,0 +1,11 @@
+micrófono, debido a que el mismo se ha ubicado siempre a una distancia superior a 2 m de la misma, tal como indica el apartado 9.2.1.2 de la norma UNE-ISO 1996-2. 2415166
+Ayuntamiento de Llanes - Calle Nemesio Sobrino s/n - 985 40 01 02 - Llanes [42 image 1] Ayuntamiento de Llanes Negociado. REGIMEN SANCIONADOR 3B6X 1K08 6K50 402G 041Y 0800800000000 0000000000 0
+Coso [meses |] > Dada la circunstancia explicada en el apartado anterior, no ha sido necesario realizar una corrección por reflexiones, según las prescripciones indicadas en
+el apartado 9.2.1.2 de la norma UNE-ISO 1996-2 A pesar de que la Carretera de Celorio a Barro LLN-9, no es una vía de comunicación importante (según define la Resolución de 25 de abril de 2014), ha
+habido ciertos registros que han estado influenciados por ruidos puntuales del paso de algún vehículo ruidoso, que lógicamente han sido excluidos de las medidas
+elegidas para el postprocesado de datos. No obstante lo anterior, es perfectamente factible discernir el ruido del escaso tráfico puntual registrado del resto de fuentes específicas.
+Por tanto, ha sido perfectamente viable obtener registros de 5 segundos sin ruidos espurios a los ruidos específicos evaluados.
+Dichos registros sin afección sonora ajena de ruidos puntuales, son los que se han elegido para evaluar la actividad. Para determinar las posibles penalizaciones por la existencia de correcciones
+tonales, impulsivas y/o de baja frecuencia, se ha realizado un análisis espectral en tercios de octava desde 20 Hz a 10 kHz y se han medido los parámetros LCeq y LAleg.
+El protocolo de medida establecido en el Anejo IV del Real Decreto 1367/2007, indica que en la determinación del LKeq,Ti se tendrá en cuenta la corrección por ruido de fondo.
+Tal como indica la Instrucción Técnica del Principado, las mediciones de ruido de fondo deberán ser lo más cercanas posible en el tiempo a las mediciones de ruido

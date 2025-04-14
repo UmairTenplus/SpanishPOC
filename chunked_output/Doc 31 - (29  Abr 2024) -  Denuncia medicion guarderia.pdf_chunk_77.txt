@@ -1,0 +1,10 @@
+ejemplo la prescripción de la utilización como norma de referencia, de la Guía elaborada por AECOR, la cual obliga, entre otras cosas, dentro de su protocolo de medida, a no penalizar
+indebidamente a las actividades o instalaciones (notas 4, 5 y 6 de la misma). Se cita explícitamente lo que indica la citada Instrucción Técnica: "Como norma de referencia, deberán seguirse las
+recomendaciones de la “Guía orientativa de procedimiento de medida de ruido de actividad según el anejo 4 del Real Decreto 1367/2007”, elaborada por AECOR (asociación española
+para la calidad acústica)". Finalmente conviene recordar que el objeto de la citada Instrucción Técnica expone claramente que es aplicable no solo a aquellas industrias con autorización
+ambiental integrada sino también a: "los informes a realizar en cualquier otra instalación industrial o de otro tipo susceptible de ser calificada como molesta por la producción de
+ruidos que requiera este tipo de ensayos de impacto acústico en el entorno y que sea solicitado por el órgano ambiental competente de la comunidad autónoma del Principado de Asturias".
+COPIA CONTROLADA: INF_827_23_NPS_CC780 PARA USO EXCLUSIVO DE: Dº. RAÚL GUTIÉRREZ SALGADO 17/08/2023 [93 image 1] laboratorio de acústica merino ingenieros Página 24 de 37 INF_827_23_NPS
+En la corrección por tonos puros se ha tenido en cuenta lo que indica el Anexo K de la norma UNE-ISO 1996-2, ya que el método simplificado de inspección desarrollado en el citado
+Anexo es el que utiliza para corregir por la presencia de componentes tonales el Real Decreto 1367/2007: “Para determinar la presencia de un componente espectral de frecuencia discreta
+prominente (tono) se suele comparar el nivel de presión sonora promediado en el tiempo en una banda de tercio de octava con los niveles de presión sonora promediados en el tiempo de las dos

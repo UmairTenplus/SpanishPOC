@@ -1,0 +1,9 @@
+Los   sistemas   de   monitorizado   permanente  de   ruido   aseguran   la   adquisición automática de datos día,  tarde y noche,  recogiendo información del ruido.  Todos los resultados de las mediciones se recogen y se almacenan en terminales de control y
+se  transfieren  periódicamente  a  una  plataforma  online  donde  todos  los  datos  se
+procesan y almacenan.  Un terminal de monitorizado de ruido  consiste básicamente en  un  sonómetro  (analizador  en  tiempo  real)  clase   1   Welmec,  un  dispositivo  de almacenamiento y análisis de datos y un sistema de transmisión  de información  tal como una línea telefónica.
+Se ha utilizado una estación  de monitorizado de ruido permanente modelo SV307 de la marca SVANTEK, cumpliendo los requerimientos Welmec como tipo P.
+El  SV  307  integra  el medidor de  nivel  de  sonido  de  Clase   1   con  un  módem  4G internamente  en  la   carcasa  impermeable   compacta.   La  carcasa   del  equipo   de monitorización tiene una protección intemperie IP65.
+El SV 307  realiza  análisis  de frecuencia  en tiempo  real en bandas  de  111 y 113 de octava y guarda los resultados con los datos del historial de tiempo.  Además,  graba la señal de audio  como  archivos  WAV estándar para el reconocimiento de la fuente de ruido.
+Se utiliza un micrófono  clase  1  MEMS  de diseño  ST 30 de  1/2 pulgada,  con  curva de  respuesta  en  frecuencia  plana  entre  los  20  Hz  y  los  20  KHz  y patrón polar omnidireccional y rango dinámico de 106 dB.
+La  estación  de  monitorización  utiliza un  modem   4G para  comunicación  remota  a través de Internet.  El servidor se encarga de la conexión entre el Pe y la estación.  La conexión a través del servidor permite al usuario comprobar el estado de la estación
+-,57   66 Ayuntamiento de Llanes  - Calle Nemesio  Sobnno sin - 985 40 01 02 - Llanes Ayuntamiento de Llanes • • •   • N9fl0Ciedo REGIMEN SANCIONADOR E 386X 1K08 6K50 4Q2G 041Y

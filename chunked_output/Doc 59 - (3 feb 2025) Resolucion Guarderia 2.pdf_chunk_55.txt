@@ -1,0 +1,11 @@
+intemperie IP65. ¡_xÓÚñ[ñÉÉaaIII o _—_—_—_—_—_—_—> Ayuntamiento de Llanes - Calle Nemesio Sobrino s/n - 985 40 01 02 - Llanes [66 image 1] [67 image 1] Ayuntamiento de Llanes Nege REGIMEN SANCIONADOR
+E El SV 307 realiza análisis de frecuencia en tiempo real en bandas de 1/1 y 1/3 de octava y guarda los resultados con los datos del historial de tiempo. Además, graba la señal de audio como archivos
+WAV estándar para el reconocimiento de la fuente de ruido. Se utiliza un micrófono clase 1 MEMS de diseño ST 30 de 1/2 pulgada, con curva de respuesta en
+frecuencia plana entre los 20 Hz y los 20 KHz y patrón polar omnidireccional y rango dinámico de 106 dB.
+La estación de monitorización utiliza un modem 4G para comunicación remota a través de Internet. El servidor se encarga de la conexión entre el Pc y la estación. La conexión a través del servidor
+permite al usuario comprobar el estado de la estación de monitorización de ruido desde Pc, teléfono móvil o tablet, tal como se muestra a continuación
+Ayuntamiento de Llanes - Calle Nemesio Sobrino s/n - 985 40 01 02 - Llanes [68 image 1] [69 image 1] Ayuntamiento de Llanes "Negociado REGIMEN SANCIONADOR 00800000000 AA Datos en tiempo real
+sen genera Instantaneous results Figura 1: captura de pantalla de la plataforma online para el seguimiento del monitorizado
+La digitalización del audio se realiza con una frecuencia de muestreo de 12/24/48 KHz con 16 o 24 bits de resolución. La tecnología empleada permite realizar el procesado en tiempo real, añadir la
+información de geoposicionamiento y habilitar la comunicación bidireccional con la plataforma online. 356141 Ayuntamiento de Llanes - Calle Nemesio Sobrino s/n - 985 40 01 02 - Llanes [70 image 1]
+[71 image 1] Ayuntamiento de Llanes Negociado. REGIMEN SANCIONADOR 365R 202N 4144 4137 ORV5 1000000000000

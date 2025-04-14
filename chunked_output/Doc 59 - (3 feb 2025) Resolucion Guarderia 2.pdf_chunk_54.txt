@@ -1,0 +1,11 @@
+1CT/155/2020, de 7 de febrero, por la que se regula el control metrológico del Estado de determinados instrumentos de medida. Adicionalmente se realizan de forma voluntaria
+calibraciones ENAC de los equipos, anualmente para el caso del calibrador, tal como recomienda el apartado 5.2 de la norma UNE-ISO 1996-2 y cada dos años para el caso del resto del sistema de
+instrumentación de medición de sonido audible, según especifica el apartado indicado de la norma UNE citada anteriormente).
+Nota 4: En el Anexo 1 del presente Informe se adjuntan los Certificados de verificación de nuestros equipos, así como los Certificados de calibración ENAC de los mismos.
+7.3.1- CARACTERÍSTICAS DEL SISTEMA DE MONITORIZACIÓN Los sistemas de monitorizado permanente de ruido aseguran la adquisición automática de datos
+día, tarde y noche, recogiendo información del ruido. Todos los resultados de las mediciones se recogen y se almacenan en terminales de control y se transfieren periódicamente a una plataforma
+online donde todos los datos se procesan y almacenan. Un terminal de monitorizado de ruido consiste básicamente en un sonómetro (analizador en tiempo real) clase 1 Welmec, un dispositivo
+de almacenamiento y análisis de datos y un sistema de transmisión de información tal como una línea telefónica.
+Se ha utilizado una estación de monitorizado de ruido permanente modelo SV307 de la marca SVANTEK, cumpliendo los requerimientos Welmec como tipo P.
+El SV 307 integra el medidor de nivel de sonido de Clase 1 con un módem 4G internamente en la carcasa impermeable compacta. La carcasa del equipo de monitorización tiene una protección
+intemperie IP65. ¡_xÓÚñ[ñÉÉaaIII o _—_—_—_—_—_—_—> Ayuntamiento de Llanes - Calle Nemesio Sobrino s/n - 985 40 01 02 - Llanes [66 image 1] [67 image 1] Ayuntamiento de Llanes Nege REGIMEN SANCIONADOR

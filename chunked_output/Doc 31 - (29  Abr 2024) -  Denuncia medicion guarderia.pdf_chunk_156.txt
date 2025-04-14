@@ -1,0 +1,11 @@
+[173 image 1] laboratorio de acústica merino ingenieros Página 29 de 40 INF_873_24_NPS El protocolo de medida del Real Decreto 1367/2007, prescribe en el punto primero del
+apartado 3.4.2.b) del Anexo IV, que se debe disponer el funcionamiento de las fuentes ruidosas de las actividades, a las distintas velocidades, cargas o marchas que generen los mayores valores de
+presión sonora. Extrapolando el mencionado párrafo a las fuentes ruidosas evaluadas, es lógicamente inviable realizar tal actuación ya que se trata, por una parte, de un ensayo realizado lógicamente
+sin apercibir a las empresas que organizan las jornadas cuyos participantes generan la afección sonora, y por otra, a que el nivel emitido por los diferentes jugadores, narradores y moderadores,
+tanto los ubicados en el exterior como los situados en el interior de la edificación, depende de la
+intensidad con la que se grite, se hable, se ría o se aplauda y del tiempo de duración de los ruidos y del número de participantes que grite, hable, ría o aplauda simultáneamente.
+En cuanto al ruido generado al pisar la rampa metálica de acceso a la carpa y aseos, también depende de la intensidad con la que se pise la misma.
+Por tanto, los resultados del ensayo solo conciernen a las condiciones bajo las que se realizó el ensayo, pudiendo lógicamente darse la circunstancia, de que en otros momentos y
+condiciones distintas a las que se realizaron las medidas, los resultados obtenidos puedan ser superiores a los registrados en el presente Informe de ensayo.
+Nota aclaratoria: se estima conveniente aclarar en este punto el párrafo anterior, ya que suele ser motivo de tergiversación del contenido del Informe. Evidentemente los valores registrados
+también podrían haber sido inferiores, pero lo que prescribe el real decreto para evaluar la conformidad de una determinada actividad o fuente sonora es garantizar que los valores máximos

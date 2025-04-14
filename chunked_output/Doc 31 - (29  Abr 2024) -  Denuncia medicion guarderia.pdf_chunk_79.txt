@@ -1,0 +1,11 @@
+indicadas explícitamente en el Anexo IV del Real Decreto 1367/2007, sin tener en cuenta el umbral de audición, aunque se pudiera dar la circunstancia de que se penalicen tonos puros o bajas
+frecuencias no audibles por el oído humano. COPIA CONTROLADA: INF_827_23_NPS_CC780 PARA USO EXCLUSIVO DE: Dº. RAÚL GUTIÉRREZ SALGADO 17/08/2023 [94 image 1] laboratorio de acústica merino ingenieros
+Página 25 de 37 INF_827_23_NPS Se ha comprobado que la diferencia entre valores extremos medidos del Leq,T ha sido menor que 6 dBA.
+Al valor resultante de cada uno de los Lkeq,T se le ha incrementado 0,5 dBA y se ha tomado la parte entera del mismo, como valor final.
+Se ha tomado como resultado el Lkeq,T de valor más elevado de cada serie de mediciones. Tal como indica el Anexo IV del Real Decreto 1367/2007, las mediciones para los ruidos
+emitidos por la fuente sonora evaluada, se ha llevado a cabo en el lugar en que su valor era el más alto. Asimismo, las mediciones, de los ruidos emitidos al ambiente exterior por la fuente ruidosa
+evaluada, se han llevado a cabo en el punto de evaluación, en que su valor era más alto. El protocolo de medida del Real Decreto 1367/2007, prescribe en el punto primero del
+apartado 3.4.2.b) del Anexo IV, que se debe disponer el funcionamiento de las fuentes ruidosas de las actividades, a las distintas velocidades, cargas o marchas que generen los mayores valores de
+presión sonora. Extrapolando el mencionado párrafo a la fuente ruidosa evaluada, es lógicamente inviable realizar tal actuación ya que se trata, por una parte, de un ensayo realizado lógicamente sin
+apercibir a la empresa que organiza el campamento que genera la afección sonora, y por otra, a que el nivel emitido por los diferentes niños depende de la intensidad con la que grite, del tiempo
+de duración de los gritos y del número de niños que grita simultáneamente. El nivel de inmisión transmitido por los niños, depende a su vez de la ubicación de éstos con respecto al límite entre

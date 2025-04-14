@@ -1,0 +1,15 @@
+Frecuencia (Frequency) Página 2 de 2 páginas Nivel de Presion sonora (Sound Pressure Level) 94,00 dB 94,04 dB 0,15 dB Número Number CALIBRACIÓN (Calibration) :
+Calibración en Fundación IDONIAL, según el procedimiento interno PC/ITMA/81 Rev.4 por el método de comparación con
+pistófono, basado en la norma, acorde a la fabricación del instrumento, UNE-EN 60942: 2005 de calibradores acústicos.
+Condiciones ambientales: Temp. (ºC): 23 ± 3. Humedad rel (%): 50 ± 20. Presión atmosférica (kPa): 101,4 ± 3. Condiciones
+ambientales de referencia: Temp. (ºC): 23. Humedad rel (%): 50. Presión atmosférica (kPa): 101,325.
+Patrones empleados en la calibración y sus códigos: Multímetro M11005, pistófono M11006, micrófono M11013, barómetro
+L11251 y termohigrómetro L1819, cuyas medidas tienen trazabilidad garantizada a través de laboratorios reconocidos por ENAC o EA (European cooperation for Accreditation).
+(Calibration in Fundación IDONIAL, according to the in-house procedure PC/ITMA/81 Rev.4 by comparison with a pistonphone,
+based on the standard, congruent with the manufacture of the acoustic calibrators, UNE-EN 60942: 2005.
+Environmental conditions: Temp. (ºC): 23 ± 3. Rel humidity (%): 50 ± 20. Static air pressure (kPa): 101,4 ± 3. Environmental
+conditions of reference: Temp. (ºC): 23. Rel humidity (%): 50. Static air pressure (kPa): 101,325. Instruments used in the
+calibration and their codes: Multimeter M11005, pistophone M11006, microphone M11013, barometer L11251 and thermo
+hygrometer L1819, with measuring traceability assured through laboratories acknowledged by ENAC and EA (European cooperation for Accreditation).) INCERTIDUMBRES (Uncertainties) :
+La incertidumbre expandida de medida U se ha obtenido multiplicando la incertidumbre típica de medida por el factor de
+cobertura k=2, que, para una distribución normal, corresponde a una probabilidad de cobertura de aproximadamente el 95%. La

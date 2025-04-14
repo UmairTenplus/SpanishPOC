@@ -1,0 +1,11 @@
+Ingenieros S.L. Nota 3: La formación específica en acústica del personal, se encuentra a disposición del cliente en el Laboratorio de Acústica Merino Ingenieros S.L. 3.2.2.- EQUIPOS DE MEDIDA
+El laboratorio está provisto con todos los equipos para el muestreo, la medición y el ensayo, requeridos para la correcta ejecución del ensayo realizado y cumplen los requisitos
+establecidos en el apartado 6.4 de la norma UNE-EN ISO/IEC 17025. El ensayo se ha realizado con los siguientes equipos de medida y accesorios de ensayo de nuestra propiedad: Referencia
+Equipo / Accesorio Nº Serie Descripción EM-001 B&K 2260J Observer 2354872 Analizador de frecuencia en tiempo real clase 1 EM-002 B&K 4189 2352881 Micrófono ½” EM-003 B&K 4231 2343151
+Calibrador acústico clase 1 EM-004 TESTO 435-4 01406153/708 Instrumento de medición multifunción EM-005 TESTO 0635 1535 10153152/708 Sonda multifunción térmica de velocidad con
+medición integrada de temperatura y humedad EM-006 STARRET Flexómetro AE-028 BOSCH BT 150 Trípode ligero para sonómetro AE-026 B&K UA 0459 Cubierta antiviento de 65 mm para micro de 1/2"
+El laboratorio dispone de los certificados de verificación y/o calibración externa e interna de los equipos de ensayo. Las calibraciones externas de los equipos han sido realizadas por
+laboratorios acreditados ENAC. COPIA CONTROLADA: INF_873_24_NPS_CC799 PARA USO EXCLUSIVO DE: D. RAÚL GUTIÉRREZ SALGADO 22/04/2024 [159 image 1] laboratorio de acústica merino ingenieros
+Página 15 de 40 INF_873_24_NPS Los equipos de medida y de ensayo utilizados por el laboratorio han sido verificados y, en
+su caso calibrados, antes de su puesta en servicio y posteriormente cuando lo señale el programa de mantenimiento, verificación y calibración del laboratorio (las verificaciones de calibrador,
+sonómetro y micrófono se realizan anualmente cumpliendo lo establecido en la Orden ICT/155/2020, de 7 de febrero, por la que se regula el control metrológico del Estado de

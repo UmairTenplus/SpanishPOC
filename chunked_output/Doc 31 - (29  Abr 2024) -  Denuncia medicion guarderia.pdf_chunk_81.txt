@@ -1,0 +1,11 @@
+especificaciones del fabricante del equipo de medida"; sin embargo, no especifica el protocolo a seguir para su comprobación. La norma UNE-ISO 1996-2 indica en su apartado 8.1, que: "tanto
+para las mediciones a largo como a corto plazo, se deben medir los parámetros meteorológicos ". Para su comprobación, se midieron durante la realización del ensayo, las condiciones
+ambientales, con el fin de verificar que éstas fueran adecuadas en el entorno del ensayo y que se encontraban dentro de los márgenes autorizados para el desarrollo del mismo, cumpliendo con las
+especificaciones del fabricante de los equipos de medida (Temperatura de funcionamiento de Analizador 2260 y Calibrador 4231: de -10 ºC a +50 ºC; Calor Húmedo para Analizador 2260 y
+Calibrador 4231: Hr del 90% sin condensación a 40 ºC) y garantizando el buen funcionamiento de la cadena de medida y la aptitud de las condiciones ambientales para todos los registros realizados.
+La velocidad del viento ha sido inferior a la máxima de 5 m/s que permite el apartado 3.5 del Anexo IV A del R.D. 1367/2007.
+Las mediciones en el medio ambiente exterior se realizaron sin lluvia y con la pantalla antiviento de 65 mm colocada en el micro, tal como indica el apartado 3.5.d) del Anexo IV.A del
+COPIA CONTROLADA: INF_827_23_NPS_CC780 PARA USO EXCLUSIVO DE: Dº. RAÚL GUTIÉRREZ SALGADO 17/08/2023 [96 image 1] laboratorio de acústica merino ingenieros Página 27 de 37 INF_827_23_NPS
+Real Decreto 1367/2007, con un analizador Brüel & Kjaer 2260 clase 1, posicionado sobre un trípode a la altura indicada anteriormente.
+Nota 5: Los registros de las condiciones meteorológicas realizados durante el ensayo, se encuentran a disposición del cliente en el Laboratorio de Acústica Merino Ingenieros S.L. y podrán
+ser aportados para garantizar la trazabilidad del Informe de ensayo. Se ha verificado el estado de la calibración del analizador antes y después de efectuar

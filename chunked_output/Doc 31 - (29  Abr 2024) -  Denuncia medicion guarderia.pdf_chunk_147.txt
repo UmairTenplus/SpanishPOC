@@ -1,0 +1,10 @@
+(tiempo que recomienda como mínimo el apartado A.3.4.2.b) del Anexo IV del Real Decreto para mediciones discretas), y un número de medidas a realizar -mínimo tres lecturas a intervalos de tres
+minutos-, de forma que el resultado de la medida fuera representativo de la valoración de los índices acústicos que se han auditado en los periodos temporales de evaluación (dato que se
+tendrá en cuenta para la elección de los valores límite para la evaluación de la conformidad de las tablas del Anexo III del Real Decreto 1367/2007).
+En el caso del ruido residual el tiempo de registro coincide con el tiempo de integración. Nota aclaratoria: se estima conveniente explicar dos aspectos en este punto. Por una
+parte, que el documento marco de acústica medioambiental que constituye el real decreto 1367/2007, no establece, como es lógico debido a las diferentes casuísticas que pueden existir de
+ruidos a evaluar, tiempos máximos entre medidas, sino única y exclusivamente tiempos mínimos de 3 minutos entre cada una de ellas. Por otra parte, para declarar la no conformidad de una
+actividad, respecto a los valores máximos del índice acústico LkAeq (nivel continuo equivalente ponderado A corregido por la presencia de componentes tonales, impulsivas y baja frecuencia), el
+real decreto 1367/2007 prescribe que son suficientes 3 medidas de 5 segundos separadas temporalmente 3 minutos y lo mismo sucede con el ruido residual. Esto significa que la duración
+mínima del ensayo podría ser de 6 minutos y 15 segundos (con únicamente 15 segundos de registro) para la fuente sonora y lo mismo para el fondo, computando un total de 12 minutos y 30
+segundos (con 30 segundos de registro total y 6 minutos de espera entre registros). Sin embargo, la duración del ensayo realizado ha sido de 4 horas y 4 minutos entre la verificación de la

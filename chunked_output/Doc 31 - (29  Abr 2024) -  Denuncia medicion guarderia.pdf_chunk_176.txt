@@ -1,0 +1,11 @@
+(Expanded uncertainties of measurement (U): Acoustical uncertainties: ± 0,34 dB (31.5 Hz ≤f ≤1 kHz), ± 0,46 dB (1 kHz < f ≤4
+kHz), ± 0,58 dB (4 kHz < f ≤8 kHz), ± 0,72 dB (8 kHz < f ≤12.5 kHz). Except the “Self generated noise, microphone installed” test having ± 1 dB.
+Electrical uncertainties: ± 0.20 dB for all tests, except these: “Linearity” and “Time weighting, response to single burst” tests, from
+30 to 42 dB: ± 0.25 dB; and “Long-term stability” and “High-level stability: ± 0.10 dB.) POSITIVO POSITIVO POSITIVO POSITIVO POSITIVO POSITIVO POSITIVO POSITIVO POSITIVO POSITIVO POSITIVO POSITIVO
+POSITIVO POSITIVO POSITIVO POSITIVO POSITIVO POSITIVO POSITIVO POSITIVO POSITIVO POSITIVO POSITIVO POSITIVO POSITIVO Lectura en las condiciones de referencia
+Respuesta en frecuencia acústica. Ponderacion A Respuesta en frecuencia acústica. Ponderacion C Respuesta en frecuencia acústica. Ponderacion Lin Determinacion del nivel eléctrico de ref. a 1 kHz
+Ponderación frecuencial, entrada electrica. Pond. A Ponderación frecuencial, entrada electrica. Pond. C Ponderación frecuencial, entrada electrica. Pond. Lin Exactitud del atenuador. Frecuencia 20 Hz
+Exactitud del atenuador. Frecuencia 12500 Hz Indicador (linealidad) en pasos de 1 dB a 1000 Hz Indicador (linealidad) en pasos de 10 dB a 8000 Hz Ponderacion temporal. Diferencia de indicación
+Ponderación temporal. Salva única en F, de 200 ms Ponderación temporal. Salva única en S, de 500 ms Ponderación temporal. Pulso único en I, de 2 ms
+Ponderación temp. Serie continua de pulsos en I, a 2 Hz Ponderación temporal. Pico Detección cuadrática. Señales sinusoidales Detección cuadrática. Pulsos rectangulares positivos
+Detección cuadrática. Pulsos rectangulares negativos Promedio temporal. Leq, SEL Indicación de sobrecarga. NPS Indicación de sobrecarga. SEL Nivel medio de presion acustica ponderado AI

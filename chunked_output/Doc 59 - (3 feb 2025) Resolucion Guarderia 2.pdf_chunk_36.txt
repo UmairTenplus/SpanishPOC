@@ -1,0 +1,11 @@
+10.4 de la norma UNE-ISO 1996-2. Nota: tal como indica la recientemente aprobada norma UNE 74201, cuando no queden definidos
+los protocolos de cálculo de ruido residual en una norma de ensayo, se deben usar los criterios dados en la citada norma.
+Al índice acústico evaluado corregido por el ruido de fondo (caso de ser necesario), se le han aplicado las correcciones oportunas debidas a la presencia de componentes tonales emergentes, de
+baja frecuencia o ruido de carácter impulsivo. Con el fin de no penalizar indebidamente a la fuente evaluada, para determinar las correcciones a
+realizar se ha seguido además del procedimiento establecido en el Anejo IV del Real Decreto 1367/2007, el protocolo de la Guía de medida y evaluación del ruido de actividades o instalaciones
+según Anexo IV del Real Decreto 1367/2007, Versión 1 Diciembre 2.011 realizada por AECOR y particularmente las Notas 4 a 6 del citado protocolo, tal como prescribe la Instrucción Técnica para
+la evaluación y determinación del impacto acústico de las instalaciones industriales en el Principado de Asturias.
+Nota aclaratoria: Con el fin de evitar tergiversar el contenido del presente Informe por parte de terceros, se estima necesario aclarar que la aplicación de las citadas notas 4 a 6 del protocolo de
+Ayuntamiento de Llanes - Calle Nemesio Sobrino s/n - 985 40 01 02 - Llanes [46 image 1] [47 image 1] Ayuntamiento de Llanes Negociado. REGIMEN SANCIONADOR 365R 202N 4144 4137 ORV5 0008080000080
+AECOR, se realiza precisamente para no penalizar indebidamente a las fuentes auditadas, ya que si no se tuvieran en cuenta, -al igual que otra serie de lagunas técnicas del protocolo de evaluación
+del real decreto 1367/2007, que para nada es claro, sino que genera ambigúedades que se transforman en malinterpretaciones del mismo por parte de terceros-, se estaría evaluando

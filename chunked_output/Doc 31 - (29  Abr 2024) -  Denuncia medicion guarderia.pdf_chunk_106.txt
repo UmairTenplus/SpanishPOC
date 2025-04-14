@@ -1,0 +1,10 @@
+Ponderación temp. Serie continua de pulsos en I, a 2 Hz Ponderación temporal. Pico Detección cuadrática. Señales sinusoidales Detección cuadrática. Pulsos rectangulares positivos
+Detección cuadrática. Pulsos rectangulares negativos Promedio temporal. Leq, SEL Indicación de sobrecarga. NPS Indicación de sobrecarga. SEL Nivel medio de presion acustica ponderado AI
+(Absolute acoustical sensitivity level) (Frequency response in acoustic coupler, FW A) (Frequency response in acoustic coupler, FW C) (Frequency response in acoustic coupler, FW Lin)
+(Determining electrical level for LRef at 1kHz) (Frequency response with electrical signal, FW A) (Frequency response with electrical signal, FW C) (Frequency response with electrical signal, FW Lin)
+(Level range control. Frequency 20 Hz) (Level range control. Frequency 12500 Hz) (Linearity range, IEC60651, 1000 Hz, SPL 1 dB steps) (Linearity range, IEC60651, 8000 Hz, SPL 10 dB steps)
+(Time Weighting. Difference in ref. level indication) (Time Weighting. Response to single burst, 200 ms, F) (Time Weighting. Response to single burst, 500 ms, S)
+(Time Weighting. Response to single burst, 2 ms, I) (TW Response, continuous sequence of bursts, 2Hz, I) (Time Weighting. Peak) (RMS detector. Sine Burst) (RMS detector. Positive rectangular pulses)
+(RMS detector. Negative rectangular pulses) (Time Averaging. Leq, SEL) (Overload Indication. SPL) (Overload Indication. SEL) (Average AI-weighted SPL) COPIA CONTROLADA: INF_827_23_NPS_CC780
+PARA USO EXCLUSIVO DE: Dº. RAÚL GUTIÉRREZ SALGADO 17/08/2023 [115 image 1] DBNIAL CENTRO TECNOLÓGICO [115 image 2] ¿Ono SNS SS “e CALIBRACIÓN N%8B/LO10.058 ANEXO A.2: HOMOLOGACIÓN DEL MINISTERIO DE
+TRANSPORTES, MOVILIDAD Y AGENDA URBANA, SEGÚN REAL DECRETO 410/2010 Y CERTIFICADOS DE PARTICIPACIÓN DEL LABORATORIO DE ACÚSTICA MERINO INGENIEROS S.L. EN LOS EJERCICIOS DE

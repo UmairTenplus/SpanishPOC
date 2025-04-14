@@ -1,0 +1,11 @@
+Leq (dBA) corregido por el ruido de fondo 63,6 Comp. Tonales emergentes Frec. con tonal emergente (Hz). Activ. Funcionam. 630Hz Leq (dB) en dicha frec.con la actividad en func. 60,1
+Leq (dB) en dicha frec.con la actividad parada 34,5 Diferencia (dB) Nota 4 Procedimiento AECOR 25,6 Leq (dB) en dicha frec.corregido por el ruido de fondo 60,1 Lt 6,98 Kt por componentes tonales 6
+Comp. Baja frecuencia LCeq con la actividad en funcionamiento 64,6 LCeq con la actividad parada (ruido de fondo) 52,6 Diferencia (dB) Nota 5 Procedimiento AECOR 12,1
+LCeq corregido por el ruido de fondo 64,6 Lf (LCeq corregido  - LAeq corregido) 1,0 Kf por componentes baja frecuencia 0 Comp. Impulsivos LAIeq con la actividad en funcionamiento 68,7
+LAIeq con la actividad parada (ruido de fondo) 43,7 Diferencia (dB) Nota 6 Procedimiento AECOR 25,0 LAIeq corregido por el ruido de fondo 68,7 Li (LAIeq corregido  - LAeq corregido) 5,1
+Ki por componentes impulsivas 0 Kt+Kf+Ki 6 L Keq,T  (dBA) sin redondeo 69,6 L Keq,T  (dBA) con redondeo 70 COPIA CONTROLADA: INF_873_24_NPS_CC799 PARA USO EXCLUSIVO DE: D. RAÚL GUTIÉRREZ SALGADO
+22/04/2024 [178 image 1] laboratorio de acústica merino ingenieros Página 34 de 40 INF_873_24_NPS El presente Informe no debe reproducirse por ningún medio salvo que se
+haga íntegramente y con la aprobación escrita del Laboratorio de Acústica Merino Ingenieros S.L. La incertidumbre del ensayo se encuentra a disposición del cliente en el
+Laboratorio de Acústica Merino Ingenieros S.L. La incertidumbre expandida calculada está basada en una probabilidad de cobertura del 95 % tal como recomienda la norma ISO 14253 parte 1.
+Los resultados de este ensayo solo conciernen a los objetos presentados a ensayo y en el momento y condiciones que se realizaron las medidas. 4.1.- EVALUACIÓN DE LA CONFORMIDAD
+El valor máximo de los niveles de presión sonora de inmisión alcanzado en las series de medidas, determinado por el índice acústico LkAeq,T, del ensayo más desfavorable realizado en el

@@ -1,0 +1,14 @@
+60651/A1:1997; and UNE-EN 60804:1996 (Integrating-averaging SLM), modified by UNE-EN 60804/A2:1997.
+Environmental conditions: Temp. (ºC): 23 ± 3. Rel humidity (%): 50 ± 20. Static air pressure (kPa): 101.4 ± 3. Environmental
+conditions of reference: Temp. (ºC): 23. Rel humidity (%): 50. Static air pressure (kPa): 101.325. Instruments used in the
+calibration and their codes: Multimeter M11005, Multifunction acoustic calibrator M11007, barometer L11251 and thermo
+hygrometer L1819, with measuring traceability assured through laboratories acknowledged by ENAC and EA (European cooperation for Accreditation).) Certificate of Calibration
+INCERTIDUMBRES (Uncertainties ): La incertidumbre expandida de medida U se ha obtenido multiplicando la incertidumbre típica de medida por el factor de cobertura
+k=2, que, para una distribución normal, corresponde a una probabilidad de cobertura de aproximadamente el 95%. La
+incertidumbre típica de medida se ha determinado conforme al documento EA4/02 M: 2021. Los resultados en este certificado
+solo son válidos para el instrumento específico calibrado y corresponden al momento de la medida, no considerándose la estabilidad del instrumento a largo plazo.
+(The reported expanded uncertainty of measurement U is based on a standard uncertainty of measurement multiplied by a
+coverage factor k=2, which, for a normal distribution, provides a level of confidence of approximately 95 %. The standard
+uncertainty of measurement evaluation was carried out in accordance with the document EA4/02 M: 2021. Results in this
+certificate are only valid for the specific instrument calibrated and correspond to the date of the measurement; it was not considered long-term stability of the instrument. )
+OBSERVACIONES (Additional notes ): La realización de la calibración no supone la superación del Control Metrológico del Estado que pudiera serle de aplicación, según

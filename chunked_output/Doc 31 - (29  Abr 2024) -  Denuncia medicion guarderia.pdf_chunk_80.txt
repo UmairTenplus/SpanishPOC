@@ -1,0 +1,11 @@
+de duración de los gritos y del número de niños que grita simultáneamente. El nivel de inmisión transmitido por los niños, depende a su vez de la ubicación de éstos con respecto al límite entre
+ambas parcelas, en definitiva, de la distancia de la fuente emisora (niño). Por tanto, los resultados del ensayo solo conciernen a las condiciones bajo las que se
+realizó el ensayo, pudiendo lógicamente darse la circunstancia, de que en otros momentos y condiciones distintas a las que se realizaron las medidas, los resultados obtenidos puedan ser
+superiores a los registrados en el presente Informe de ensayo. COPIA CONTROLADA: INF_827_23_NPS_CC780 PARA USO EXCLUSIVO DE: Dº. RAÚL GUTIÉRREZ SALGADO 17/08/2023 [95 image 1] laboratorio de acústica
+merino ingenieros Página 26 de 37 INF_827_23_NPS Nota aclaratoria: se estima conveniente aclarar en este punto el párrafo anterior, ya que
+suele ser motivo de tergiversación del contenido del Informe. Evidentemente los valores registrados también podrían haber sido inferiores, pero lo que prescribe el real decreto para evaluar la
+conformidad de una determinada actividad o fuente sonora es garantizar que los valores máximos de presión sonora que pueda transmitir la misma, sean inferiores a los valores límite, cuando las
+fuentes sonoras estén generando el mayor nivel de presión sonora de emisión posible. Y dicha circunstancia es imposible de garantizar, dadas las características del ensayo realizado, por lo que
+es inviable asegurar que el ensayo se ha ejecutado partiendo de los mayores niveles de emisión en el campamento, por las circunstancias explicadas anteriormente.
+El apartado a) del punto 3.5 del Anexo IV A del Real Decreto 1367/2007 indica explícitamente que "las condiciones de humedad y temperatura deberán ser compatibles con las
+especificaciones del fabricante del equipo de medida"; sin embargo, no especifica el protocolo a seguir para su comprobación. La norma UNE-ISO 1996-2 indica en su apartado 8.1, que: "tanto

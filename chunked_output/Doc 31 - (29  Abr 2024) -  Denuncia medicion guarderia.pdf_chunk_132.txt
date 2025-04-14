@@ -1,0 +1,11 @@
+CGA-ENAC-LEC Rev.9 Marzo 2020: Criterios generales para la acreditación de laboratorios de ensayo y calibración según norma UNE-EN ISO/IEC 17025.
+PAC-ENAC Rev.3 Noviembre 2019: Procedimiento de Acreditación. G-ENAC-09 Rev. 1 Julio 2005: Guía para la expresión de la incertidumbre en los ensayos cuantitativos.
+G-ENAC-14 Rev. 1 Septiembre 2008: Guía sobre la participación en programas de intercomparaciones. ILAC G8:09/2019. Guía para establecer reglas de decisión en la declaración de conformidad.
+NT-03 Rev. 6 Junio 2018: Política de ENAC sobre Intercomparaciones. NT-45 Rev. 2 Enero 2015: Laboratorios de Ensayo: Acreditación en el ámbito de la acústica.
+NT-64 Rev. 4Febrero 2020. Esquemas de Evaluación de la Conformidad. Procedimiento de evaluación y criterios para su aceptación. NT-74 Rev. 3 Abril 2020: Política de trazabilidad metrológica de ENAC.
+NT-86 Rev. 4 Febrero 2019: Laboratorios de ensayo y calibración: identificación de los métodos en los alcances de acreditación y acciones a tomar en caso de ser revisados.
+Calidad en los laboratorios de calibraciones y ensayos. Mejora de los procesos. Gilles Revoil. Estimación de la incertidumbre. Medidas y ensayos. Christophe Perruchet y Marc Priel.
+Manual práctico de calidad en los laboratorios. Enfoque ISO 17025:2005 (2ª edición). Salvador Sagrado. Emilio Bonet. María José Medina. Yolanda Martín.
+Acústica Ambiental: análisis, legislación y soluciones. Temas de acústica. SEA. Guía técnica para la gestión del ruido ambiental en las administraciones locales. Diputación Foral de Vizcaya,
+Departamento de Medio Ambiente. Ruido ambiental. Brüel&Kjær Sound & Vibration Measurement A/S. COPIA CONTROLADA: INF_873_24_NPS_CC799 PARA USO EXCLUSIVO DE: D. RAÚL GUTIÉRREZ SALGADO 22/04/2024
+[155 image 1] laboratorio de acústica merino ingenieros Página 11 de 40 INF_873_24_NPS Conceptos básicos del ruido ambiental. Ministerio de Agricultura, Alimentación y Medio Ambiente.

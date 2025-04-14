@@ -1,0 +1,11 @@
+ya que así lo especifican los Anexos I y IV del R.D. 1367/2007. COPIA CONTROLADA: INF_827_23_NPS_CC780 PARA USO EXCLUSIVO DE: Dº. RAÚL GUTIÉRREZ SALGADO 17/08/2023 [98 image 1]
+laboratorio de acústica merino ingenieros Página 29 de 37 INF_827_23_NPS Lkeq,Ti MÁS DESFAVORABLE DE LAS MEDICIONES REALIZADAS EN EL MEDIO AMBIENTE EXTERIOR SERIE 1 Leq (dBA)
+Leq (dBA) con la actividad en funcionamiento 64,3 Leq (dBA) con la actividad parada (ruido fondo) 42,8 Leq (dBA) corregido por el ruido de fondo 64,3 Comp. Tonales emergentes
+Frec. con tonal emergente (Hz). Activ. Funcionam. 630Hz Leq (dB) en dicha frec.con la actividad en func. 52,5 Leq (dB) en dicha frec.con la actividad parada 37,0
+Diferencia (dB) Nota 4 Procedimiento AECOR 15,5 Leq (dB) en dicha frec.corregido por el ruido de fondo 52,5 Lt 6,21 Kt por componentes tonales 6 Comp. Baja frecuencia
+LCeq con la actividad en funcionamiento 65,5 LCeq con la actividad parada (ruido de fondo) 57,9 Diferencia (dB) Nota 5 Procedimiento AECOR 7,6 LCeq corregido por el ruido de fondo 64,7
+Lf (LCeq corregido  - LAeq corregido) 0,4 Kf por componentes baja frecuencia 0 Comp. Impulsivos LAIeq con la actividad en funcionamiento 70,7 LAIeq con la actividad parada (ruido de fondo) 48,5
+Diferencia (dB) Nota 6 Procedimiento AECOR 22,2 LAIeq corregido por el ruido de fondo 70,7 Li (LAIeq corregido  - LAeq corregido) 6,5 Ki por componentes impulsivas 0 Kt+Kf+Ki 6
+L Keq,T  (dBA) sin redondeo 70,3 L Keq,T  (dBA) con redondeo 70 COPIA CONTROLADA: INF_827_23_NPS_CC780 PARA USO EXCLUSIVO DE: Dº. RAÚL GUTIÉRREZ SALGADO 17/08/2023 [99 image 1]
+laboratorio de acústica merino ingenieros Página 30 de 37 INF_827_23_NPS Lkeq,Ti MÁS DESFAVORABLE DE LAS MEDICIONES REALIZADAS EN EL MEDIO AMBIENTE EXTERIOR SERIE 2 Leq (dBA)
+Leq (dBA) con la actividad en funcionamiento 67,4 Leq (dBA) con la actividad parada (ruido fondo) 42,8 Leq (dBA) corregido por el ruido de fondo 67,4 Comp. Tonales emergentes

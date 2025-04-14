@@ -1,0 +1,10 @@
+Se utiliza  un micrófono  clase 1  MEMS de diseño ST 30 de 1/2 pulgada,  con curva  de respuesta  en frecuencia  plana  entre  los 20 Hz y los 20  KHz y patrón polar omnidireccional y rango  dinámico  de
+106 dB.
+La estación de monitorización  utiliza un modem  4G para comunicación remota a través de Internet. El servidor se encarga  de la  conexión  entre  el  Pe y la  estación.  La conexión  a través  del servidor permite  al  usuario  comprobar el estado  de  la  estación  de  monitorización  de  ruido  desde  Pe, teléfono móvil o tablet,  tal como se muestra a continuación
+1                                             Ayuntamiento de Llanes N99(JCIOdo REGIMEN SANCIONADOR 365R 202N 4L44 4137 ORVS
+III IIIIIIIIII IIIIIIIIIIIII IIIII IIIIIIIIIIII I IIIIIIIIIII IIIII IIIIIII III �RES19SOOIN  I  f �RES/2024'256   l �.-,
+Figura  1: ca11tura de pantalla de la phltaforma online parn  el seguimiento del moniloriudo
+La digitalización del audio  se realiza  con una frecuencia  de muestreo  de 12/24/48 KHz con 16  o 24 bits  de resolución. La tecnología empleada permite realizar el procesado en tiempo real, añadir la información  de  geoposicionamiento  y  habilitar  la  comunicación  bidireccional  con  la  plataforma
+ontine. 1 A yuntamiento de Llanes N�ltdo REGIMEN SANCIONADOR 365R 202N 4L44 4137 ORVS 1111111m111 ru 11111111111111111111111111111111111111 r1111111111r1 RES19SOOIN  I      -RES 2024 256   1 E._,
+Durante el período de monitorización,  es posible consultar los datos de ruido en tiempo real desde cualquier  ubicación  y  comprobar  si  los  niveles  de  ruido  se  acercan  o  sobrepasan  los  límites impuestos  en  la  normativa  (se  pueden   consultar  en  línea  datos  de  alta  resolución,   revisar  la
+representación  gráfica  del ruido,  llevar un seguimiento y realizar operaciones  en remoto sobre la estación   de  monitorizado,   tales  como   solicitud   de  grabación   de  audio,   comprobación   de  la calibración,  etc.).

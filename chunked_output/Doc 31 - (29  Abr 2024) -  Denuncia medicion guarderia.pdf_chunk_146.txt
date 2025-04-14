@@ -1,0 +1,11 @@
+del Anejo IV del R.D. 1513/2005, los mapas deberán estar convenientemente georreferenciados mediante coordenadas, por lo tanto, la ubicación del punto donde se efectuaron las medidas se
+recogen en la siguiente tabla: Coord. UTM PUNTO X Y 1 (SURESTE) 353.511,89 4.810.315,66 DATUM ETRS89 HUSO 30 3.4.- DESCRIPCIÓN DE LOS DETALLES DEL PROCEDIMIENTO DEL ENSAYO DE MEDIDA
+DE LOS NIVELES DE PRESIÓN SONORA DE INMISIÓN Se ha seguido el procedimiento de medida indicado en los Anejos I y IV del Real Decreto 1367/2007.
+El procedimiento de medición se ha basado en la aplicación de métodos de muestreo del nivel de presión sonora en intervalos temporales de medida seleccionados dentro del período
+temporal de evaluación. Con el fin de no perder ningún evento sonoro, se ha realizado una grabación cuasi-
+continua de las fuentes sonoras evaluadas, con registros de tiempo variable entre 40 y 60 minutos aproximadamente -tiempo de registro, no de integración- desde las 00:35 hasta que finalizaron las
+jornadas sobre las 04:10 horas, con simplemente un pequeño tiempo de parada entre registros, con el fin de evitar archivos de medida excesivamente grandes para el postprocesado de datos.
+COPIA CONTROLADA: INF_873_24_NPS_CC799 PARA USO EXCLUSIVO DE: D. RAÚL GUTIÉRREZ SALGADO 22/04/2024 [166 image 1] laboratorio de acústica merino ingenieros Página 22 de 40 INF_873_24_NPS
+Posteriormente a la finalización de las jornadas, se evaluó el ruido residual o de fondo, realizando la verificación de la calibración final a las 4:28 horas.
+Atendiendo a las características del ruido a evaluar, se ha seleccionado un intervalo temporal de integración de cada medida en el postprocesado de datos, Ti, igual a 5 segundos
+(tiempo que recomienda como mínimo el apartado A.3.4.2.b) del Anexo IV del Real Decreto para mediciones discretas), y un número de medidas a realizar -mínimo tres lecturas a intervalos de tres

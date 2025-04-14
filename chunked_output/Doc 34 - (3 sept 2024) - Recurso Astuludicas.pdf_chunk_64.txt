@@ -1,0 +1,11 @@
+programa de mantenimiento, verificación y calibración del laboratorio (las verificaciones de calibrador, sonómetro y micrófono se realizan anualmente cumpliendo lo establecido en
+la Orden ICT/155/2020, de 7 de febrero, por la que se regula el control metrológico del Estado de determinados instrumentos de medida).
+Adicionalmente se realizan de forma voluntaria calibraciones ENAC de los equipos, anualmente para el caso del calibrador, tal como recomienda el apartado 5.2 de la norma
+UNE-ISO 1996-2 y el apartado 4.3 de la norma UNE-EN ISO 16283-1 y cada dos años para el caso del resto del sistema de instrumentación de medición de sonido audible, según
+especifican los apartados indicados de las dos normas UNE citadas anteriormente). Nota 4: En el Anexo A.1 del presente Informe se adjuntan los Certificados de verificación de
+nuestros equipos, así como los Certificados de calibración ENAC de los mismos”. A su vez en el citado Informe de Ensayo de niveles de presión sonora de inmisión realizado
+durante el domingo 7 de abril de 2024(nocturno) presentado por D. Raúl Gutiérrez Salgado representado por D. Alfonso de la Iglesia Rivaya con fecha de Justificante de Presentación de
+fecha 29 de abril de 2024, 09:44:38, Número de Registro REGAGE24e00031131181(Con fecha de Registro de Entrada de 30 de abril de 2024, 08:00:24, Número 5326, se aportan como ANEXOS:
+A.1.- CERTIFICADOS DE VERIFICACIÓN Y CERTIFICADOS DE CALIBRACIÓN ENAC A.2.DECLARACIÓN RESPONSABLE SEGÚN REAL DECRETO 410/2010 Y CERTIFICADOS DE PARTICIPACIÓN DEL LABORATORIO DE ACÚSTICA MERINO
+INGENIEROS S.L. EN LOS EJERCICIOS DE COMPARACIÓN INTERLABORATORIOS DE ACÚSTICA REALIZADOS POR AECOR EN LOS AÑOS 2007-2008, 2009 Y 2014, POR ASOCAS EN EL AÑO 2011 Y POR CTA EN LOS AÑOS
+2016, 2018., 2021 Y 2023. A.3.- GRÁFICAS ESPECTRALES Y TEMPORALES. Hay que tener en cuenta que este tipo de aparatos(calibradores y sonómetros) cuentan con

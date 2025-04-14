@@ -1,0 +1,11 @@
+D. RAÚL GUTIÉRREZ SALGADO 22/04/2024 [176 image 1] laboratorio de acústica merino ingenieros Página 32 de 40 INF_873_24_NPS
+Se adjuntan finalmente en el citado Anexo, las gráficas espectrales y temporales del ruido de fondo. Por último, se estima conveniente aclarar, que el valor que figura a pié de cada gráfica
+temporal del Anexo 3, se corresponde -como bien indica la gráfica- con el valor de LAeq del segundo donde se encuentre posicionado el cursor y no con el valor del LAeq de los 5 segundos más
+desfavorables con los que se han realizado los cálculos. Se acompaña a continuación una tabla para evaluar los resultados según el Real Decreto
+1367/2007, con todos los valores de los parámetros de medida y correcciones por baja frecuencia, tonos puros e impulsividad, donde se indican los valores globales del índice acústico LAeq de los
+cinco segundos de medida más desfavorables de los diversos registros realizados y de otros dos índices acústicos, el nivel continuo equivalente impulsivo ponderado A y el nivel continuo
+equivalente con ponderación C, para determinar finalmente el parámetro Lkeq,T. Se ha utilizado como parámetro acústico de medida para comparar con los límites
+máximos establecidos en el R.D. 1367/2007, el nivel continuo equivalente corregido, LKeq,T (con T=5s), ya que así lo especifican los Anexos I y IV del R.D. 1367/2007. COPIA CONTROLADA:
+INF_873_24_NPS_CC799 PARA USO EXCLUSIVO DE: D. RAÚL GUTIÉRREZ SALGADO 22/04/2024 [177 image 1] laboratorio de acústica merino ingenieros Página 33 de 40 INF_873_24_NPS
+Lkeq,Ti MÁS DESFAVORABLE DE LAS MEDICIONES REALIZADAS EN EL MEDIO AMBIENTE EXTERIOR Leq (dBA) Leq (dBA) con la actividad en funcionamiento 63,6 Leq (dBA) con la actividad parada (ruido fondo) 43,1
+Leq (dBA) corregido por el ruido de fondo 63,6 Comp. Tonales emergentes Frec. con tonal emergente (Hz). Activ. Funcionam. 630Hz Leq (dB) en dicha frec.con la actividad en func. 60,1

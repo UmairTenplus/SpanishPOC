@@ -1,0 +1,11 @@
+tiempos mínimos de 3 minutos entre cada una de ellas. Por otra parte, para declarar la no conformidad de una actividad, respecto a los valores máximos del índice acústico LkAeq
+(nivel continuo equivalente ponderado A corregido por la presencia de componentes tonales, impulsivas y baja frecuencia), el real decreto 1367/2007 prescribe que son suficientes 3
+medidas de 5 segundos separadas temporalmente 3 minutos y lo mismo sucede con el ruido residual. Esto significa que la duración mínima del ensayo podría ser de 6 minutos y 15
+segundos (con únicamente 15 segundos de registro) para la fuente sonora y lo mismo para el fondo, computando un total de 12 minutos y 30 segundos (con 30 segundos de registro
+total y 6 minutos de espera entre registros). Sin embargo, la duración del ensayo realizado ha sido de 4 horas y 4 minutos entre la
+verificación de la calibración inicial y la verificación de la calibración final. Según el Anexo I del Real Decreto 1367/2007, el periodo día está comprendido entre las
+7:00 y las 19:00 horas, el periodo tarde está comprendido entre las 19:00 y las 23:00 horas y el periodo noche está comprendido entre las 23:00 y las 7:00 horas.
+Se ha considerado una única fase de ruido para las fuentes sonoras evaluadas. Se estima necesario aclarar que el principal objetivo del real decreto 1367/2007 es
+determinar la molestia producida por una fuente de ruido, pero en ningún caso pretende caracterizar la fuente de ruido en cuestión, sino garantizar la protección de los posibles
+receptores de ese ruido, determinando el cumplimiento o no con los valores límite durante los 5 segundos más desfavorables de la fase más ruidosa de la fuente auditada, por tanto si al
+evaluar la fase de mayor ruido que ésta genera no cumple, no es necesario seguir evaluando el resto de posibles fases, tal como aclara el apartado 2.2 del protocolo de la Guía de medida

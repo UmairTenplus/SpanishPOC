@@ -1,0 +1,11 @@
+Anexo IV A del R.D. 1367/2007. Las mediciones en el medio ambiente exterior se realizaron sin lluvia y con la pantalla antiviento de
+130 mm colocada en el micro, tal como indica el apartado 3.5.d) del Anexo IV.A del Real Decreto 1367/2007, con un analizador Svantek SV307 clase 1, posicionado sobre un trípode a la altura de
+1,5 m indicada anteriormente. Nota 5: Los registros de las condiciones meteorológicas realizados durante el ensayo, se
+encuentran a disposición del cliente en el Laboratorio de Acústica Merino Ingenieros S.L. y podrán ser aportados para garantizar la trazabilidad del Informe de ensayo.
+Se ha verificado el estado de la calibración del analizador antes y después de efectuar las mediciones mediante un calibrador acústico Briel 8. Kjaer 4231, clase 1, garantizando un margen
+de desviación no superior a 0,3 dB respecto el valor de referencia inicial. Asimismo, el nivel de presión sonora visualizado en las comprobaciones ha estado comprendido dentro del margen de
+tolerancia definido respecto del valor de referencia del calibrador acústico. Ayuntamiento de Llanes - Calle Nemesio Sobrino s/n - 985 40 01 02 - Llanes [34 image 1] Ayuntamiento de Llanes Negociado.
+REGIMEN SANCIONADOR 000 0 O Nota 6: Los registros de las verificaciones de la calibración realizadas antes y después del ensayo,
+se encuentran a disposición del cliente en el Laboratorio de Acústica Merino Ingenieros S.L. y podrán ser aportados para garantizar la trazabilidad del Informe de ensayo.
+No se han producido saturaciones en ninguno de los registros elegidos tras el postprocesado de datos. El ensayo de medida de niveles de presión sonora de inmisión transmitidos por las fuentes sonoras
+emisoras evaluadas, incluido el muestreo previo y la evaluación del ruido residual, se ha realizado durante la noche del viernes 20 de septiembre y la madrugada del sábado 21 de septiembre de

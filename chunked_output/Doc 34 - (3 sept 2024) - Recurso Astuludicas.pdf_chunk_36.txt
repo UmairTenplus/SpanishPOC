@@ -1,0 +1,11 @@
+evaluar la fase de mayor ruido que ésta genera no cumple, no es necesario seguir evaluando el resto de posibles fases, tal como aclara el apartado 2.2 del protocolo de la Guía de medida
+y evaluación del ruido de actividades o instalaciones según Anexo IV del Real Decreto [26 image 1] Ayuntamiento de Llanes RES18S01CI RES/2024/85 Negociado REGIMEN SANCIONADOR
+4X18 6S4C 4R2C 1A1O 07L1 ²4X186S4C4R2C1A1O07L1×» ²4X186S4C4R2C1A1O07L1×» Ayuntamiento de Llanes - Calle Nemesio Sobrino s/n - 985 40 01 02 - Llanes 2752
+1367/2007, Versión 1 Diciembre 2.011 realizada por AECOR (Asociación Española para la Calidad Acústica). Según se ha indicado en el apartado 3.3 del presente Informe, tras el muestreo realizado, se
+ha utilizado una sola posición discreta de micro en la zona evaluada del medio ambiente exterior del límite de una de las parcelas en las que se ubican las viviendas unifamiliares afectadas.
+Con el fin de mejorar la incertidumbre de la medida y de que las mediciones realizadas fueran estadísticamente representativas, se han realizado varias medidas en el citado punto
+de evaluación, aumentando el número mínimo de medidas que recomienda el Real Decreto 1367/2007, incrementando por tanto el tiempo de medición -tiempo de registro- (no el de
+integración que se mantiene en 5 segundos por cada registro evaluado en el postprocesado de datos) para cubrir todas las posibles variaciones significativas de la emisión de ruido.
+Los criterios de selección de los puntos de medida han sido los siguientes:  La altura del micro sobre el suelo ha sido de 1,5 metros de altura.
+ El punto seleccionado tras el muestreo realizado para el registro de datos se ubica en una posición de campo libre. Por lo tanto, únicamente se ha tenido en cuenta el
+sonido incidente, al quedar eliminadas las posibles reflexiones, si las hubiese, procedentes de la fachada que se encuentra por detrás del micrófono, debido a que el

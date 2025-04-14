@@ -1,0 +1,11 @@
+ambiental competente de la comunidad autónoma del Principado de Asturias" En la corrección por tonos puros se ha tenido en cuenta lo que indica el Anexo K de la norma UNE-
+ISO 1996-2, ya que el método simplificado de inspección desarrollado en el citado Anexo es el que utiliza para corregir por la presencia de componentes tonales el Real Decreto 1367/2007: “Para
+determinar la presencia de un componente espectral de frecuencia discreta prominente (tono) se suele comparar el nivel de presión sonora promediado en el tiempo en una banda de tercio de
+octava con los niveles de presión sonora promediados en el tiempo de las dos bandas de tercio de octava adyacentes. Para que un tono prominente discreto se identifique como presente, se requiere
+que el nivel de presión sonora promediado en el tiempo en la banda de tercio de octava de interés, exceda los niveles de presión sonora promediados en el tiempo de ambas bandas de tercio de
+octava adyacentes en una diferencia de nivel constante”. Por tanto, si no se cumple la citada condición, no se tendrá en cuenta la existencia de tonos puros a pesar de que matemáticamente
+puedan aparecer por simple aplicación de la fórmula de resta del nivel de presión sonora que contiene la supuesta banda emergente menos la media aritmética de las dos bandas adyacentes.
+Dicho criterio es utilizado por el Centro de Acústica Aplicada y Evaluación No Destructiva "CAEND” y ya está recogido en legislación posterior al Real Decreto 1367/2007 como por ejemplo en el
+Decreto 176/2009, de 10 de noviembre, por el que se aprueba el Reglamento de la Ley 16/2002, de 28 de junio, de protección contra la contaminación acústica, de la Generalidad de Cataluña y en
+el Decreto 213/2012, de 16 de octubre, de contaminación acústica de la Comunidad Autónoma del País Vasco.
+Nota aclaratoria: la norma UNE-ISO 1996-2 y los Reglamentos y Decretos citados, son normas que constituyen documentos públicos reconocidos elaborados por entidades competentes.

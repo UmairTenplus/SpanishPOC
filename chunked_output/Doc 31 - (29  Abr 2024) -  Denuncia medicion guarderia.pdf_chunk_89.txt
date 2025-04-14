@@ -1,0 +1,10 @@
+acústica. Cuando dos fuentes sonoras radian la misma cantidad de energía, la intensidad sonora será dos veces mayor que si solamente tuviéramos una fuente radiando. Ya que la intensidad es
+proporcional al cuadrado de la presión, entonces al doblar la intensidad produce un incremento de 3 dB en la presión sonora existente. Esto significa que dos fuentes sonoras exactamente
+iguales funcionando de forma simultánea que emitan individualmente por ejemplo 70 dBA, al funcionar a la vez, su suma no es igual a la suma numérica lineal de los valores individuales en
+dBA, es decir 140 dBA, sino que la suma es logarítmica, computando un total de 73 dBA. El espectro de ruido emitido por las fuentes específicas evaluadas genera en el medio
+ambiente exterior de la vivienda afectada, un ruido con la presencia de tonos puros en el rango frecuencial que mejor escucha el ser humano, provocando un perjuicio, que impide lógicamente el
+descanso o realizar cualquier actividad (leer, ver la televisión, teletrabajar, etc.) y sobresalta a los propietarios de la vivienda. La presencia de tonos puros audibles, implica que además de la
+molestia inicial que supone el aumento del nivel global de ruido, ésta se vea incrementada debido a que las componentes tonales hacen que aumente la perturbación del ruido percibido, teniendo en
+cuenta además que se trata de ruidos de un elevado nivel. No es el objetivo lógicamente del presente Informe la evaluación de los daños de salud
+que puede causar el ruido procedente de la actividad, labor que corresponde acreditar a los facultativos médicos. No obstante lo anterior, las diferentes investigaciones realizadas por
+numerosos autores en todo el mundo, han demostrado que la contaminación acústica afecta claramente a la salud, calidad de vida y bienestar de las personas, produciendo una extensa

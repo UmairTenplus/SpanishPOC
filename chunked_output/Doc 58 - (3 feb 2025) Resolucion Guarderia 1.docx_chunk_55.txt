@@ -1,0 +1,9 @@
+Por tanto,  ha sido perfectamente viable obtener registros de 5 segundos sin ruidos espurios a los ruidos específicos evaluados.
+Dichos registros sin afección sonora ajena de ruidos puntuales,  son los que se han elegido para evaluar la actividad.
+Para   determinar  las  posibles  penalizaciones  por la   existencia   de   correcciones tonales,  impulsivas y/o de baja frecuencia,  se ha realizado un análisis espectral en tercios de octava desde  20 Hz a  1 O  kHz y se han medido los parámetros LCeq y LA/eq.
+El protocolo  de medida  establecido  en el Anejo  IV del  Real  Decreto  1367/2007, indica  que en la determinación  del LKeq, Ti se tendrá en cuenta la  corrección por ruido de fondo.
+Tal como indica  la  Instrucción  Técnica  del Principado,  las mediciones  de ruido  de fondo deberán ser lo más cercanas posible en el tiempo a las mediciones  de ruido global, a poder ser inmediatamente  antes y/o después.
+Dadas las características de las fuentes evaluadas y del tipo de ensayo realizado - sin apercibir al titular de la actividad para tratar de evitar posibles variaciones en /as condiciones   de   emisión   normales-,   no   es   viable   parar   el   ruido   a   nuestra conveniencia, para poder realizar /as mediciones  del ruido de fondo en el punto de medida en ausencia del ruido transmitido por la actividad.
+42   66 Ayuntamiento de llanes - Calle Nemesio Sobrino sin - 985 40 01 02 - Uanes 1                                                         Ayuntamiento de Llanes ••• Negoc¡9rJo REGIMEN SANCIONADOR
+11 3B6X  1K08 6K50 402G 041Y lll llllllllll lllllllllllllllllllllllllllllllllllllllllllllllllllllll iRES19SOOJJ   I  e:-RES 2024/254   1
+Por tanto, para evaluar el ruido de fondo se han tomado registros antes del inicio de la actividad o después de finalizar lo misma o bien  durante  el tiempo en que los niños estaban en la playa y no en el interior del Club.

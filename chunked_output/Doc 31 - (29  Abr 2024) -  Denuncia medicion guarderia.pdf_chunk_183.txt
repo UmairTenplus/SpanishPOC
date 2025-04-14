@@ -1,0 +1,12 @@
+(Sound Pressure Level) 114,03 dB 0,15 dB POSITIVO 1000,00 Hz 999,98 Hz POSITIVO ES 123% | -— [30% | 030%] Posmwo
+Distorsión total TD incluye armónicos, subarmónicos y ruido, en el rango de 22 Hz a 20 kHz. Tolerancia: La de la norma aplicada
+en la calibración, para un calibrador acústico de CLASE 1. Regla de decisión: resultado POSITIVO indica que el calibrador acústico cumple la tolerancia de la norma aplicada.
+(Total distorsion TD includes harmonics, subharmonics and noise, in the range of 22 Hz to 20 kHz. Tolerance: The specified in
+the standard applied in calibration, for an acoustic calibrator CLASS 1. Decision rule: result POSITIVE means that the acoustic calibrator has fulfilled the tolerance of the standard applied.)
+Este certificado no podrá ser reproducido parcialmente sin la autorización por escrito de Fundación IDONIAL.
+This certificate should not be partially reproduced without the prior written permission of Fundación IDONIAL. ANEXO 2: DECLARACIÓN RESPONSABLE SEGÚN REAL DECRETO 410/2010 Y CERTIFICADOS DE
+PARTICIPACIÓN DEL LABORATORIO DE ACÚSTICA MERINO INGENIEROS S.L. EN LOS EJERCICIOS DE COMPARACIÓN INTERLABORATORIOS DE ACÚSTICA REALIZADOS POR AECOR EN LOS AÑOS 2007-2008,
+2009 Y 2014, POR ASOCAS EN EL AÑO 2011 Y POR CTA EN LOS AÑOS 2016, 2018, 2021 Y 2023 COPIA CONTROLADA: INF_873_24_NPS_CC799 PARA USO EXCLUSIVO DE: D. RAÚL GUTIÉRREZ SALGADO 22/04/2024 El laboratorio
+LABORATORIO DE ACÚSTICA MERINO INGENIEROS S.L. En fecha: 30/04/2021 C.- PRUEBAS DE SERVICIO C.1.- PRUEBAS DE ESTANQUEIDAD DB HS 1 Si/No Código nº Ensayo Procedimiento PS01 a
+Ventanas y puertas. Estanquidad al agua. Ensayo "in situ" UNE 85247:2011 PS02 b Fachadas Ligeras. Estanquidad al agua. Ensayo "in situ" UNE-EN 13051:2001 PS03 c Estanqueidad de fachadas
+Doc. Reconocido DRC 06/09 de la Generalitat Valenciana PS04 d Estanqueidad de cubiertas Doc. Reconocido DRC 06/09 de la Generalitat Valenciana

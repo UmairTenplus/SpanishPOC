@@ -1,0 +1,14 @@
+conditions of reference: Temp. (ºC): 23. Rel humidity (%): 50. Static air pressure (kPa): 101.325. Instruments used in the
+calibration and their codes: Multimeter M11005, Multifunction acoustic calibrator M11007, barometer L11251 and thermo
+hygrometer L1819, with measuring traceability assured through laboratories acknowledged by ENAC and EA (European cooperation for Accreditation).) INCERTIDUMBRES (Uncertainties ):
+La incertidumbre expandida de medida U se ha obtenido multiplicando la incertidumbre típica de medida por el factor de cobertura
+k=2, que, para una distribución normal, corresponde a una probabilidad de cobertura de aproximadamente el 95%. La
+incertidumbre típica de medida se ha determinado conforme al documento EA4/02 M: 2022. Los resultados en este certificado
+corresponden al momento de la medida, no considerándose la estabilidad del instrumento a largo plazo.
+(The reported expanded uncertainty of measurement U is based on a standard uncertainty of measurement multiplied by a
+coverage factor k=2, which, for a normal distribution, provides a level of confidence of approximately 95 %. The standard
+uncertainty of measurement evaluation was carried out in accordance with the document EA4/02 M: 2022. Results in this
+certificate correspond to the date of the measurement; it was not considered long-term stability of the instrument. ) OBSERVACIONES (Additional notes ):
+La realización de la calibración no supone la superación del Control Metrológico del Estado que pudiera serle de aplicación, según
+se establece en la Orden ICT/155/2020 de 7 de Febrero (BOE Nº 47 de 24/02/2020) u otra disposición Reglamentaria relacionada con el Control Metrológico del Estado (Metrología Legal).
+(This calibration does not mean overcoming Government Regulation of metrological control, Orden ICT/155/2020 (BOE Nº 47 of 24/02/2020).) Certificate of Calibration COPIA CONTROLADA:

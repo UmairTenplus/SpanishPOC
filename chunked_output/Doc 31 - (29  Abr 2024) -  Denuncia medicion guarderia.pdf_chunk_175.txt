@@ -1,0 +1,14 @@
+(This calibration does not mean overcoming Government Regulation of metrological control, Orden ICT/155/2020 (BOE Nº 47 of 24/02/2020).) Certificate of Calibration COPIA CONTROLADA:
+INF_873_24_NPS_CC799 PARA USO EXCLUSIVO DE: D. RAÚL GUTIÉRREZ SALGADO 22/04/2024 [189 image 1] DBNIAL CENTRO TECNOLÓGICO Resultado (Result)
+Este certificado no podrá ser reproducido parcialmente sin la autorización por escrito de Fundación IDONIAL.
+This certificate should not be partially reproduced without the prior written permission of Fundación IDONIAL.
+Tolerancia: La de la norma aplicada en la calibración, para un sonómetro de CLASE 1. Regla de decisión: resultado POSITIVO indica que el sonómetro cumple la tolerancia de la norma aplicada.
+(Tolerance: The specified in the standard applied in calibration, for a sound level meter CLASS 1. Decision rule: result POSITIVE
+means that the sound level meter has fulfilled the tolerance of the standard applied.) CERTIFICADO DE CALIBRACIÓN Número Number 2401484-2 RESULTADOS (Results ): Certificate of Calibration
+Resumen de ensayos (Sumary of tests ): Página 3 de 16 páginas Page 3 of 16 pages
+Incertidumbres expandidas de medida (U): Acústicas: ± 0,34 dB (31,5 Hz ≤f ≤1 kHz), ± 0,46 dB (1 kHz < f ≤4 kHz), ± 0,58 dB (4
+kHz < f ≤ 8 kHz), ± 0,72 dB (8 kHz < f ≤ 12,5 kHz). Excepto el ensayo “Ruido intrínseco con micrófono instalado”, con  ± 1 dB.
+Eléctricas: ± 0,20 dB para todos los ensayos, excepto estos: “Linealidad” y “Ponderación temporal. Salva única” que de 30 a 42
+dB: ± 0,25 dB; y “Estabilidad largo plazo” y “Estabilidad niveles elevados”: ± 0,10 dB.
+(Expanded uncertainties of measurement (U): Acoustical uncertainties: ± 0,34 dB (31.5 Hz ≤f ≤1 kHz), ± 0,46 dB (1 kHz < f ≤4
+kHz), ± 0,58 dB (4 kHz < f ≤8 kHz), ± 0,72 dB (8 kHz < f ≤12.5 kHz). Except the “Self generated noise, microphone installed” test having ± 1 dB.

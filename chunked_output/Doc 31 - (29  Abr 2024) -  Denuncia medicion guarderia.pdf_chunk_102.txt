@@ -1,0 +1,14 @@
+2, a o, Este certificado no podrá ser reproducido parcialmente sin la autorización por escrito de Fundación IDONIAL.
+This certificate should not be partially reproduced without the prior written permission of Fundación IDONIAL. CERTIFICADO DE CALIBRACIÓN Número Number Page 2 of 16 pages
+Micrófono del sonómetro, Marca / Modelo / Número de serie: Bruel & Kjaer / 4189 / 2352881. Preamplificador del sonómetro, Marca / Modelo / Número de serie: ----- / ----- / -----.
+Calibración en Fundación IDONIAL, según el procedimiento interno PC/ITMA/81 Rev.4, basado en la siguiente norma, acorde a la
+fabricación del sonómetro: UNE-EN 60651: 1996 (Sonómetros), modificada por UNE-EN 60651/A1: 1997; y UNE-EN 60804: 1996 (Son. integradores-promediadores), modificada por UNE-EN 60804/A2: 1997.
+Condiciones ambientales: Temp. (ºC): 23 ± 3. Humedad rel (%): 50 ± 20. Presión atmosférica (kPa): 101,4 ± 3. Condiciones
+ambientales de referencia: Temp. (ºC): 23. Humedad rel (%): 50. Presión atmosférica (kPa): 101,325.
+Patrones utilizados: Multímetro M11005, calibrador acústico multifunción M11007, barómetro L11251 y termohigrómetro L1819,
+cuyas medidas tienen trazabilidad garantizada a través de laboratorios reconocidos por ENAC o EA (European cooperation for Accreditation). Página 2 de 16 páginas CALIBRACIÓN (Calibration ): 2201170-2
+(Microphone of the sound level meter, Mark / Model / Serial number: Bruel & Kjaer / 4189 / 2352881. Preamplifier of the sound level meter, Mark / Model / Serial number: ----- / ----- / -----.
+Calibration in Fundación IDONIAL, according to the in-house procedure PC/ITMA/81 Rev.4, based on the following standard,
+congruent with the manufacture of sound level meter: UNE-EN 60651:1996 (Sound level meters), modified by UNE-EN
+60651/A1:1997; and UNE-EN 60804:1996 (Integrating-averaging SLM), modified by UNE-EN 60804/A2:1997.
+Environmental conditions: Temp. (ºC): 23 ± 3. Rel humidity (%): 50 ± 20. Static air pressure (kPa): 101.4 ± 3. Environmental

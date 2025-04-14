@@ -1,0 +1,14 @@
+La incertidumbre expandida de medida U se ha obtenido multiplicando la incertidumbre típica de medida por el factor de
+cobertura k=2, que, para una distribución normal, corresponde a una probabilidad de cobertura de aproximadamente el 95%. La
+incertidumbre típica de medida se ha determinado conforme al documento EA4/02 M: 2022. Los resultados en este certificado
+corresponden al momento de la medida, no considerándose la estabilidad del instrumento a largo plazo.
+(The reported expanded uncertainty of measurement U ¡is based on a standard uncertainty of measurement multiplied by a
+coverage factor k=2, which, for a normal distribution, provides a level of confidence of approximately 95 %. The standard
+uncertainty of measurement evaluation was carried out in accordance with the document EA4/02 M: 2022. Results in this
+certificate correspond to the date of the measurement; it was not considered long-term stability of the instrument.) OBSERVACIONES (Additional notes) :
+La realización de la calibración no supone la superación del Control Metrológico del Estado que pudiera serle de aplicación,
+según se establece en la Orden ICT/155/2020 de 7 de Febrero (BOE N* 47 de 24/02/2020) u otra disposición Reglamentaria relacionada con el Control Metrológico del Estado (Metrología Legal).
+(This calibration does not mean overcoming Government Regulation of metrological control, Orden 1CT/155/2020 (BOE N' 47 of 24/02/2020).) RESULTADOS (Results) :
+Valor nominal Valor medido Error Tolerancia | Incertidumbre Resultado (Expectea) (Measured) (Deviation) | (Tolerance) (Result) Nivel de Presion sonora 94,00 dB 93,98 dB -0,02 dB 0 dB 0,15 dB POSITIVO
+(Sound Pressure Level) 114,03 dB 0,15 dB POSITIVO 1000,00 Hz 999,98 Hz POSITIVO ES 123% | -— [30% | 030%] Posmwo
+Distorsión total TD incluye armónicos, subarmónicos y ruido, en el rango de 22 Hz a 20 kHz. Tolerancia: La de la norma aplicada

@@ -1,0 +1,11 @@
+12140, en dicho informe se manifiesta, entre otros lo siguiente: 9556 Ayuntamiento de Llanes - Calle Nemesio Sobrino s/n - 985 40 01 02 - Llanes [28 image 1] Ayuntamiento de Llanes Negociado.
+REGIMEN SANCIONADOR A "3.4.- DESCRIPCIÓN DE LOS DETALLES DEL PROCEDIMIENTO DEL ENSAYO DE MEDIDA DE LOS NIVELES DE PRESIÓN SONORA DE INMISIÓN
+Se ha seguido el procedimiento de medida indicado en los Anejos 1 y IV del Real Decreto 1367/2007. El procedimiento de medición se ha basado en la aplicación de métodos de muestreo del nivel de
+presión sonora en intervalos temporales de medida seleccionados dentro del período temporal de evaluación. Con el fin de no perder ningún evento sonoro, se ha realizado una grabación continua de las
+fuentes sonoras evaluadas, desde las 22:30 horas hasta veinte minutos después de la finalización de las jornadas -sobre las 3 de la madrugada-, con el fin de evaluar posteriormente el ruido
+residual o de fondo. Atendiendo a las características del ruido a evaluar, se ha seleccionado un intervalo temporal de
+integración de cada medida en el postprocesado de datos, Ti, igual a 5 segundos (tiempo que recomienda como mínimo el apartado A.3.4.2.b) del Anexo IV del Real Decreto para mediciones
+discretas), y un número de medidas a realizar -mínimo tres lecturas a intervalos de tres minutos-, de forma que el resultado de la medida fuera representativo de la valoración de los índices
+acústicos que se han auditado en los periodos temporales de evaluación (dato que se tendrá en cuenta para la elección de los valores límite para la evaluación de la conformidad de las tablas del
+Anexo III del Real Decreto 1367/2007) Nota aclaratoria: se estima conveniente explicar dos aspectos en este punto. Po una parte, que el
+documento marco de acústica medioambiental que constituye el real decreto 1367/2007, no establece, como es lógico debido a las diferentes casuísticas que pueden existir de ruidos a

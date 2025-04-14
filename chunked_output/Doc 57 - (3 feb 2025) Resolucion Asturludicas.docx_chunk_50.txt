@@ -1,0 +1,10 @@
+Ayuntamiento de Llanes - Calle Nemesio Sobrino sin - 985 40 01 02 - Llanes 1                                                        A yuntamiento  de Llanes 1 N&g0eloao REGIMEN SANCIONADOR
+4N29 6059 266H 1M3S 0091 1111111111111lllllll l llllllllllllllll l llllll llllll ID11111111�111111 !DRES l 9SOO 1 L  I   e:RES 20241255   1 ••  - �.,
+Se  han   registrado   todos   los  parámetros   de  medida   (niveles   mextmos,   mínimos,   continuos equivalentes,  percentiles,   etc.),  tanto  en  valores  globales  como  espectrales,   cada  segundo  de
+medida,  midiendo simultáneamente con las ponderaciones temporales A y e, tal como recomienda el Anexo IV del Real Decreto 1367/2007.
+Se ha  incluido  como  descriptor acústico  para  la  evaluación  de los  niveles  de presión  sonora  de inmisión según el real decreto 1367/2007,  el nivel continuo equivalente,  LAeq,  ya que dicho índice acústico es el que se prescribe utilizar en el citado Real Decreto.
+Se ha registrado  un valor del citado  índice  (LAeq)  cada segundo  de medida  y se ha  calculado  el valor medio logarítmico de los cinco segundos más desfavorables.
+Para  determinar las posibles penalizaciones  por la  existencia  de correcciones  tonales,  impulsivas y/o de baja frecuencia, se ha realizado un análisis espectral en tercios de octava desde 20 Hz a 10 kHz y se han medido  los parámetros LCeq y LAieq.
+El protocolo  de  medida  establecido  en el Anejo  IV del Real Decreto  1367/2007,  indica  que  en la determinación del LKeq, TI se tendrá en cuenta la corrección por ruido de fondo.
+Tal como indica la Instrucción  Técnica del Principado,  las mediciones  de ruido de fondo deberán ser lo más cercanas posible en el tiempo a las mediciones  de ruido  global, a poder ser inmediatamente antes y/o después
+Por tanto,  para evaluar el ruido de fondo se han tomado registros inmediatamente después del fin de las jornadas.

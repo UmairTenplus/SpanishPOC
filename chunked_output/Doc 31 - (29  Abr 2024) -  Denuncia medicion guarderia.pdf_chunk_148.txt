@@ -1,0 +1,11 @@
+segundos (con 30 segundos de registro total y 6 minutos de espera entre registros). Sin embargo, la duración del ensayo realizado ha sido de 4 horas y 4 minutos entre la verificación de la
+calibración inicial y la verificación de la calibración final. COPIA CONTROLADA: INF_873_24_NPS_CC799 PARA USO EXCLUSIVO DE: D. RAÚL GUTIÉRREZ SALGADO 22/04/2024 [167 image 1] laboratorio de acústica
+merino ingenieros Página 23 de 40 INF_873_24_NPS Según el Anexo I del Real Decreto 1367/2007, el periodo día está comprendido entre las
+7:00 y las 19:00 horas, el periodo tarde está comprendido entre las 19:00 y las 23:00 horas y el periodo noche está comprendido entre las 23:00 y las 7:00 horas.
+Se ha considerado una única fase de ruido para las fuentes sonoras evaluadas. Se estima necesario aclarar que el principal objetivo del real decreto 1367/2007 es
+determinar la molestia producida por una fuente de ruido, pero en ningún caso pretende caracterizar la fuente de ruido en cuestión, sino garantizar la protección de los posibles receptores
+de ese ruido, determinando el cumplimiento o no con los valores límite durante los 5 segundos más desfavorables de la fase más ruidosa de la fuente auditada, por tanto si al evaluar la fase de mayor
+ruido que ésta genera no cumple, no es necesario seguir evaluando el resto de posibles fases, tal como aclara el apartado 2.2 del protocolo de la Guía de medida y evaluación del ruido de
+actividades o instalaciones según Anexo IV del Real Decreto 1367/2007, Versión 1 Diciembre 2.011 realizada por AECOR (Asociación Española para la Calidad Acústica).
+Según se ha indicado en el apartado 3.3 del presente Informe, tras el muestreo realizado, se ha utilizado una sola posición discreta de micro en la zona evaluada del medio ambiente exterior
+del límite de una de las parcelas en las que se ubican las viviendas unifamiliares afectadas. Con el fin de mejorar la incertidumbre de la medida y de que las mediciones realizadas

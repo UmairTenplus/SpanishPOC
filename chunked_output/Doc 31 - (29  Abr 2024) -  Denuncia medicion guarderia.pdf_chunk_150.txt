@@ -1,0 +1,12 @@
+Carretera de Celorio a Barro LLN-9, una vía de comunicación importante (según define la Resolución de 25 de abril de 2014), apenas ha habido registros que hayan estado influenciados por
+ruidos puntuales del paso de algún vehículo ruidoso, que lógicamente han sido excluidos de las medidas elegidas para el postprocesado de datos.
+Se han contabilizado menos de 20 pasos de vehículos a lo largo de las cuatro horas que ha durado el ensayo. No obstante lo anterior, es perfectamente factible discernir el ruido del escaso tráfico
+puntual registrado del resto de fuentes específicas evaluadas. Finalmente, la presencia in situ del Director Técnico de Laboratorio durante toda la
+duración del ensayo, anotando todos los sucesos ruidosos acaecidos durante el mismo, garantiza que los ruidos elegidos para el postprocesado de datos proceden de las fuentes sonoras a auditar y
+no de otros posibles focos. Por tanto, ha sido perfectamente viable obtener registros sin ruidos espurios a los ruidos específicos evaluados. COPIA CONTROLADA: INF_873_24_NPS_CC799
+PARA USO EXCLUSIVO DE: D. RAÚL GUTIÉRREZ SALGADO 22/04/2024 [169 image 1] laboratorio de acústica merino ingenieros [169 image 2] Página 25 de 40 INF_873_24_NPS
+Dichos registros sin afección sonora ajena de ruidos puntuales, son los que se han elegido para evaluar la actividad.
+Se han registrado todos los parámetros de medida (niveles máximos, mínimos, continuos equivalentes, percentiles, etc.), tanto en valores globales como espectrales, cada segundo de
+medida, midiendo simultáneamente con las ponderaciones temporales A y C, tal como recomienda el Anexo IV del Real Decreto 1367/2007.
+Se ha incluido como descriptor acústico para la evaluación de los niveles de presión sonora de inmisión según el real decreto 1367/2007, el nivel continuo equivalente, LAeq, ya que
+dicho índice acústico es el que se prescribe utilizar en el citado Real Decreto. Se ha registrado un valor del citado índice (LAeq) cada segundo de medida y se ha

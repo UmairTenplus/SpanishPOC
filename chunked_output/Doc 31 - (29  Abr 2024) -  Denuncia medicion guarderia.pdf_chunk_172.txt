@@ -1,0 +1,14 @@
+Unidades (SI) u otras referencias internacionalmente aceptadas (cuando no es posible la trazabilidad al SI).
+Este certificado no podrá ser reproducido parcialmente sin la autorización por escrito de Fundación IDONIAL. Los
+resultados en este certificado solo son válidos para el instrumento especifico calibrado. El texto en español es el prevalente.
+This certificate is issued in accordance with the conditions of the accreditation granted by ENAC which has
+evaluated the laboratory´s calibration and measurement capabilities and its measurement traceability to the SI
+system of units or other internationally accepted references (when traceability to SI is not feasible).
+This certificate should not be partially reproduced without the prior written permission of Fundación IDONIAL.
+Results in this certificate are only valid for the specific instrument calibrated. The text in Spanish is prevalent. Date of issue Técnico de Metrología (Metrology Technician) 10879411C SALVADOR
+ESTRADA (C:G33914557) Firmado digitalmente por 10879411C SALVADOR ESTRADA (C:G33914557) Fecha: 2024.04.01 12:13:31 +02'00' COPIA CONTROLADA: INF_873_24_NPS_CC799 PARA USO EXCLUSIVO DE:
+D. RAÚL GUTIÉRREZ SALGADO 22/04/2024 [188 image 1] DBNIAL CENTRO TECNOLÓGICO [188 image 2] SIX 4 CALIBRACIÓN 17025 NoB6 / LC10.058
+Este certificado no podrá ser reproducido parcialmente sin la autorización por escrito de Fundación IDONIAL.
+This certificate should not be partially reproduced without the prior written permission of Fundación IDONIAL. CERTIFICADO DE CALIBRACIÓN Número Number Page 2 of 16 pages
+Micrófono del sonómetro, Marca / Modelo / Número de serie: Bruel & Kjaer / 4189 / 2352881. Preamplificador del sonómetro, Marca / Modelo / Número de serie: ----- / ----- / -----.
+Calibración en Fundación IDONIAL, según el procedimiento interno PC/81 Rev.4, basado en la siguiente norma, acorde a la

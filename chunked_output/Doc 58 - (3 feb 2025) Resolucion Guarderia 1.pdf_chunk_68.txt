@@ -1,0 +1,12 @@
+Los equipos de medida y de ensayo utilizados por el laboratorio han sido verificados y, en su caso calibrados, antes de su puesta en servicio y posteriormente cuando lo
+señale el programa de mantenimiento, verificación y calibración del laboratorio (las verificaciones de calibrador, sonómetros y micrófonos se realizan anualmente
+cumpliendo lo establecido en la ORDEN 1CT/155/2020, de 7 de febrero, por la que se regula el control metrológico del Estado de determinados instrumentos de
+medida. Adicionalmente se realizan de forma voluntaria calibraciones ENAC de los equipos, anualmente para el caso del calibrador, tal como recomienda el apartado
+5.2 de la norma UNE-ISO 1996-2 y cada dos años para el caso del resto del sistema Ayuntamiento de Llanes - Calle Nemesio Sobrino s/n - 985 40 01 02 - Llanes [57 image 1] Ayuntamiento de Llanes
+y Negociado REGIMEN SANCIONADOR 3B6X 1K08 6K50 402G 041Y 0000080000000 0000000 LN IC de instrumentación de medición de sonido audible, según especifica el apartado
+indicado de la norma UNE citada anteriormente). Nota 4: En el Anexo 1 del presente Informe se adjuntan los Certificados de
+verificación de nuestros equipos, así como los Certificados de calibración ENAC de los mismos. 7.3.1- CARACTERÍSTICAS DEL SISTEMA DE MONITORIZACIÓN
+Los sistemas de monitorizado permanente de ruido aseguran la adquisición automática de datos día, tarde y noche, recogiendo información del ruido. Todos los
+resultados de las mediciones se recogen y se almacenan en terminales de control y se transfieren periódicamente a una plataforma online donde todos los datos se
+procesan y almacenan. Un terminal de monitorizado de ruido consiste básicamente en un sonómetro (analizador en tiempo real) clase 1 Welmec, un dispositivo de
+almacenamiento y análisis de datos y un sistema de transmisión de información tal como una línea telefónica. Se ha utilizado una estación de monitorizado de ruido permanente modelo SV307 de

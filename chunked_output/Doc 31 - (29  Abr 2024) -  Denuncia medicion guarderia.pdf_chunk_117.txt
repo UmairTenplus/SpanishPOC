@@ -1,0 +1,11 @@
+Cursor: 31/07/2023 09:51:23 - 09:51:24  LAeq=41,8 dB 0003.S3D 09:51:19 09:51:20 09:51:21 09:51:22 09:51:23 09:51:24 30 35 40 45 50 dB LAeq Sin título COPIA CONTROLADA: INF_827_23_NPS_CC780
+PARA USO EXCLUSIVO DE: Dº. RAÚL GUTIÉRREZ SALGADO 17/08/2023 0,0 10,0 20,0 30,0 40,0 50,0 60,0 70,0 20 25 31,5 40 50 63 80 100 125 160 200 250 315 400 500 630 800 1000 1250 1600 2000 2500 3150 4000
+5000 6300 8000 10000 A C dB FRECUENCIA (Hz) 31/07/2023 09:51:19 - 09:51:23 LLeq COPIA CONTROLADA: INF_827_23_NPS_CC780 PARA USO EXCLUSIVO DE: Dº. RAÚL GUTIÉRREZ SALGADO 17/08/2023 Página 1 de 40
+INF_873_24_NPS INFORME DE ENSAYO NIVELES DE PRESIÓN SONORA DE INMISIÓN ENSAYO: NIVELES DE PRESIÓN SONORA DE INMISIÓN PETICIONARIO: RAÚL GUTIÉRREZ SALGADO Y ROBERTO BERGEL AYAS 1 LUGAR DE ENSAYO:
+FINCAS "LAS CANCELAS" Y "LAS LOMAS", VILLA "LA CASA DE MARTA", CARRETERA DE CELORIO A BARRO S/N, CELORIO - LLANES FECHA DE SOLICITUD: 06-04-2024 FECHA DE ENSAYO: 07-04-2024 FECHA DE EMISIÓN:
+22-04-2024 Laboratorio homologado por el Ministerio de Transportes, Movilidad y Agenda Urbana según Real Decreto 410/2010 con N.º de
+inscripción: AST-L-019 en el Registro General de Laboratorios de ensayos para el control de calidad de la edificación-LEcce del CTE.
+Dicha inscripción permite al laboratorio, con carácter indefinido, ejercer su actividad en todo el territorio español como laboratorio de
+ensayos para el control de calidad para la realización de los ensayos para los que declara cumplir los requisitos exigibles establecidos en el Real Decreto 410/2010. Realizado por: Revisado por:
+Email: laboratorio@merinoingenieros.com Fdo.: Rafael F. Fdez. Merino Fdo.: Alberto García Suárez http://www.laboratorio.merinoingenieros.com Director Técnico Director de Calidad Ingeniero Industrial
+Ingeniero Industrial Colegiado N.º 1.953 Colegiado N.º 1.790 COPIA CONTROLADA: INF_873_24_NPS_CC799 PARA USO EXCLUSIVO DE: D. RAÚL GUTIÉRREZ SALGADO 22/04/2024 [146 image 1] MINISTERIO

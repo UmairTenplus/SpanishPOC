@@ -1,0 +1,11 @@
+Leq (dBA) con la actividad en funcionamiento 67,4 Leq (dBA) con la actividad parada (ruido fondo) 42,8 Leq (dBA) corregido por el ruido de fondo 67,4 Comp. Tonales emergentes
+Frec. con tonal emergente (Hz). Activ. Funcionam. 1,6kHz Leq (dB) en dicha frec.con la actividad en func. 63,7 Leq (dB) en dicha frec.con la actividad parada 30,6
+Diferencia (dB) Nota 4 Procedimiento AECOR 33,1 Leq (dB) en dicha frec.corregido por el ruido de fondo 63,7 Lt 6,00 Kt por componentes tonales 6 Comp. Baja frecuencia
+LCeq con la actividad en funcionamiento 66,6 LCeq con la actividad parada (ruido de fondo) 57,9 Diferencia (dB) Nota 5 Procedimiento AECOR 8,7 LCeq corregido por el ruido de fondo 66,0
+Lf (LCeq corregido  - LAeq corregido) -1,4 Kf por componentes baja frecuencia 0 Comp. Impulsivos LAIeq con la actividad en funcionamiento 71,2 LAIeq con la actividad parada (ruido de fondo) 48,5
+Diferencia (dB) Nota 6 Procedimiento AECOR 22,7 LAIeq corregido por el ruido de fondo 71,2 Li (LAIeq corregido  - LAeq corregido) 3,8 Ki por componentes impulsivas 0 Kt+Kf+Ki 6
+L Keq,T  (dBA) sin redondeo 73,4 L Keq,T  (dBA) con redondeo 73 COPIA CONTROLADA: INF_827_23_NPS_CC780 PARA USO EXCLUSIVO DE: Dº. RAÚL GUTIÉRREZ SALGADO 17/08/2023 [100 image 1]
+laboratorio de acústica merino ingenieros Página 31 de 37 INF_827_23_NPS El presente Informe no debe reproducirse por ningún medio salvo que se
+haga íntegramente y con la aprobación escrita del Laboratorio de Acústica Merino Ingenieros S.L. La incertidumbre del ensayo se encuentra a disposición del cliente en el
+Laboratorio de Acústica Merino Ingenieros S.L. La incertidumbre expandida calculada está basada en una probabilidad de cobertura del 95 % tal como recomienda la norma ISO 14253 parte 1.
+Los resultados de este ensayo solo conciernen a los objetos presentados a ensayo y en el momento y condiciones que se realizaron las medidas. 5.- EVALUACIÓN DE LA CONFORMIDAD

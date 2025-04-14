@@ -1,0 +1,11 @@
+ser aportados para garantizar la trazabilidad del Informe de ensayo. Se ha verificado el estado de la calibración del analizador antes y después de efectuar
+las mediciones mediante un calibrador acústico Brüel & Kjaer 4231, clase 1, garantizando un margen de desviación no superior a 0,3 dB respecto el valor de referencia inicial. Asimismo, el
+nivel de presión sonora visualizado en las comprobaciones ha estado comprendido dentro del margen de tolerancia definido respecto del valor de referencia del calibrador acústico.
+Nota 6: Los registros de las verificaciones de la calibración realizadas antes y después del ensayo, se encuentran a disposición del cliente en el Laboratorio de Acústica Merino Ingenieros
+S.L. y podrán ser aportados para garantizar la trazabilidad del Informe de ensayo. No se han producido saturaciones en ninguno de los registros elegidos tras el postprocesado de datos.
+El ensayo de medida de niveles de presión sonora de inmisión transmitidos por las fuentes sonoras emisoras evaluadas, incluido el muestreo previo y la evaluación del ruido
+residual, se ha realizado durante la mañana del lunes 31 de julio de 2.023, entre las 9:32 horas y las 14:04 horas. 4.- RESULTADOS
+En el Anexo 3 del presente Informe, se representan para la zona receptora del medio ambiente exterior del límite Sureste de la parcela en la que se ubica la vivienda con afección
+sonora, las gráficas en el dominio temporal del índice acústico LAeq (nivel continuo equivalente), necesario para la comprobación de los valores máximos de inmisión según el Real Decreto
+1367/2007, de las seis mediciones más desfavorables de todos los registros realizados de las COPIA CONTROLADA: INF_827_23_NPS_CC780 PARA USO EXCLUSIVO DE: Dº. RAÚL GUTIÉRREZ SALGADO 17/08/2023
+[97 image 1] laboratorio de acústica merino ingenieros Página 28 de 37 INF_827_23_NPS fuentes sonoras auditadas que proporcionan los valores máximos, de los índices acústicos LAeq y

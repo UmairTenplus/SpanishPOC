@@ -1,0 +1,11 @@
+Públicas vendrá determinado por la fecha y hora de presentación en el registro electrónico de cada Administración u organismo.
+De acuerdo con el art. 31.2b de la Ley39/15, a los efectos del cómputo de plazo fijado en días hábiles, y en lo que se refiere al cumplimiento de plazos por los interesados, la presentación en un día
+inhábil se entenderá realizada en la primera hora del primer día hábil siguiente salvo que una norma permita expresamente la recepción en día inhábil.
+De acuerdo con el Art. 28.7 de la Ley 39/15, el interesado de esta solicitud se responsabiliza de la veracidad de los documentos que presenta. Página 1 de 2 [1 image 1] [1 image 2] [1 image 3]
+(YN REG [1 image 4] [1 image 5] Sistema de Interconexión de Registros [1 image 6] Nombre: Denuncia.pdf Algoritmo: SHA-512
+Huella digital: b7f31d43e0198fdc7da83447c6ba013ab3663fd759e703cd8cfa69fd684163891a263dfedb3eecc152a582c3147143a31b9a3350842865eeb5addee6fb50c97a Nombre: Doc1.pdf Algoritmo: SHA-512
+Huella digital: bd9f9f9a8d5f1a08e5add2814857c4d639e0cbdae4f42eaf60eb89e0565a9695844202ab141b46be3ac21df3541a7175c5a713aef4f1fa68c6aa839777f6ad29 Nombre: Doc2.pdf Algoritmo: SHA-512
+Huella digital: c610e61d4e8428259e2195c3a0596b4d22ff36c5a7fb4d4236b804d2aca85c5a73a4ecf68ca8e7123bd7c3cff5ab5e53fc1c5271caf00338d0fe5c800682d3fb
+El presente justificante tiene validez a efectos de presentación de la documentación en este Registro Electrónico y no prejuzga la admisión del escrito para su tramitación. La fecha y hora de este
+Registro Electrónico es la de la Sede electrónica del Punto de Acceso General (https://sede.administracion.gob.es/). El inicio del cómputo de los plazos que hayan de cumplir las Administraciones
+Públicas vendrá determinado por la fecha y hora de presentación en el registro electrónico de cada Administración u organismo.

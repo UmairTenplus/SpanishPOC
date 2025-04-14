@@ -1,0 +1,11 @@
+la Guía Técnica de aplicación del Decreto 6/2012, de la Junta de Andalucía, que son documentos públicos reconocidos elaborados por entidades competentes, redactados posteriormente al Real
+Decreto 1367/2007 (se cita literalmente el último párrafo del ejemplo 1 de la página 12 de la Guía de Andalucía: "Hay que recordar que sólo serán necesarias las medidas en interiores en el caso de
+que el local emisor y el receptor sean acústicamente colindantes. Por tanto, en los casos en los que se presentan reclamaciones contra emisores acústicos y estos no son acústicamente colindantes
+con el domicilio denunciante, NO SE PUEDE MEDIR EN LA VIVIENDA DEL RECLAMANTE, sólo se deberán comprobar los niveles transmitidos al exterior por el emisor, y siempre que existan, en
+los locales colindantes a él"). Nota aclaratoria: con el fin de evitar tergiversar el contenido del presente Informe por parte
+de terceros, las consideraciones referentes a la legislación citada, se realizan precisamente porque
+tanto la definición de colindancia de locales, como otra serie de aspectos técnicos del protocolo de evaluación del real decreto 1367/2007, para nada son establecidos de forma clara en el mismo,
+sino que generan ambigüedades que pueden transformarse en malinterpretaciones del informe por parte de terceros. En ausencia de una Guía aclaratoria de las lagunas técnicas que presenta el
+protocolo de medida del real decreto, es necesario acudir a legislación y normativa acústica redactada posteriormente a la publicación del mismo por las diversas Comunidades Autónomas o
+Ayuntamientos, varias de las cuales se han citado anteriormente. Por otra parte, teniendo en cuenta el Anexo V del Real Decreto 1367/2007, el cual
+establece los criterios para determinar la inclusión de un sector del territorio en un tipo de área acústica, indica que las zonas privadas ajardinadas se incluyen dentro del área acústica de
