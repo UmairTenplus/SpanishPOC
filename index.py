@@ -7,8 +7,8 @@ from typing import List
 
 # === Load API Keys ===
 load_dotenv()
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
-PINECONE_API_KEY = os.getenv("PINECONE_API_KEY")
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", st.secrets.get("OPENAI_API_KEY"))
+PINECONE_API_KEY = os.getenv("PINECONE_API_KEY", st.secrets.get("PINECONE_API_KEY"))
 openai.api_key = OPENAI_API_KEY
 
 # === Pinecone Setup (v5.0+) ===
